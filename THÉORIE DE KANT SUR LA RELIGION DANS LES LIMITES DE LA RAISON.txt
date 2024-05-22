@@ -1,0 +1,1157 @@
+Emmanuel Kant
+THÉORIE DE KANT SUR LA RELIGION DANS LES LIMITES
+DE LA RAISON
+Traduction : Pierre Forter Arvensa 2020
+Liste générale des titres Pour toutes remarques ou suggestions :
+editions@arvensa.com ou rendez-vous sur :
+www.arvensa.com
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+Emmanuel Kant
+Édition sous la direction de : Magalie Schwartzerg Traduction du texte : Pierre Forter ©Arvensa® Éditions 2020
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+Liste générale des titres
+Table des matières
+Présentation Préface du docteur Francique Bouillier I. L'homme est méchant par nature ; il y a en lui un principe de méchanceté
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18.
+
+19. 20. 21. 22. 23. 24. 25 et 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. II. Il y a dans l'homme un bon principe qui combat contre le mauvais pour dominer en lui 49. 50. 51. 52. 53. 54
+
+55. 56. 57. 58. 59. 60. 61 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. 82. 83. 84. III. On ne peut vaincre complètement le mauvais principe, qu'en fondant un Royaume de dieu sur la terre 85. 86. 87. 88. 89.
+
+90. 91. 92. 93. 94. 95. 96. 97. 98. 99. 100. 101. 102. 103. 104. 105. 106. 107. 108. 109. 110. 111. 112. 113. 114. 115. 116. 117. 118. 119. 120. 121. 122. 123. 124. 125. 126.
+
+127. 128. 129. 130. 131. 132. IV. L'Église étant l'image du règne de Dieu, il n'y a de véritable culte divin que le culte moral 133. 134. 135. 136. 137. 138. 139. 140. 141. 142. 143. 144. 145. 146. 147. 148. 149. 150. 151. 152. 153. 154. 155. 156. 157. 158. 159. 160. 161.
+
+162. 163. 164. V. Sur les Mystères 165. 166. 167. 168. 169. 170. 171. 172. 173. 174. 175. 176. 177. 178. VI. Sur les moyens de la grâce 179. 180. 181. 182. 183. 184. 185. 186. 187. 188. 189. 190. 191. 192. 193. 194. 195. 196.
+
+197. 198.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+Table des matières Liste générale des titres
+Présentation
+Ce livre est un abrégé de l'ouvrage de Kant : De la Religion dans les limites de la raison.
+Comme le précise Francique Bouillier dans sa préface, bien que cet abrégé soit généralement attribué à Kant lui-même, le doute subsiste.
+Cette nouvelle édition reprend, en la modernisant, la traduction française du docteur Pierre Forter publiée en 1842 à la Librairie Ch. Savy jeune, Lyon.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+Table des matières Liste générale des titres
+Préface du docteur Francique Bouillier
+[1]
+Le livre que nous publions est un abrégé de l'ouvrage de Kant, qui a pour titre : De la Religion dans les limites de la raison. Cet abrégé est généralement attribué à Kant lui-même, cependant comme la bonne foi de l'éditeur qui l'a donné sous le nom de Kant était un peu suspecte en Allemagne, il demeure à ce sujet quelques doutes que nous n'avons pu dissiper. Ce qu'il y a de certain et ce qui importe avant tout, c'est que cet abrégé est parfaitement exact. L'exactitude y est poussée à tel point que le plus souvent il est composé avec les phrases mêmes du grand ouvrage, sur lequel il a l'avantage de la clarté. Il a été imprimé pour la première fois à Riga, en 1796, c'est-à-dire après la seconde édition de la Religion dans les limites de la raison. Mettre à la portée de tout le monde les principes moraux et religieux contenus dans ce petit abrégé, tel est l'unique but de cette préface. Il faut d'abord tenir compte de l'époque à laquelle Kant a publié ces principes pour apprécier d'une part le courage du philosophe, de l'autre, certains des caractères de son oeuvre. Le grand Frédéric n'était plus, et sous son successeur, Frédéric-Guillaume II, une réaction avait été tentée contre ce hardi rationalisme que le roi-philosophe avait développé par ses encouragements et par son exemple. L'édit de religion de 1788 fut le fruit de cette réaction. Le but de cet édit était de défendre l'orthodoxie protestante contre les attaques et les interprétations non moins téméraires du rationalisme. C'est pendant le cours de cette réaction et sous l'empire de cet édit de religion[2] que Kant publia son ouvrage De la Religion dans les limites de la raison, et voilà peut-être la raison pour laquelle il a été obligé
+
+de voiler quelquefois un peu sa pensée sous des formes bibliques. Néanmoins cette pensée était encore trop transparente pour ne pas alarmer l'orthodoxie protestante. La censure de Berlin s'en mêla, le roi lui-même intervint, et la tranquillité du philosophe fut pendant quelque temps sérieusement menacée. Kant supporta cette épreuve avec fermeté et dignité, il se refusa à toute rétractation et soutint constamment qu'il était dans son droit de citoyen et de professeur de philosophie. Tout ce qu'on put obtenir de lui, c'est que jusqu'à la fin du règne, il n'écrirait plus rien sur la religion[3]. Ainsi, quoique, sans remonter jusqu'au Tractats theologico politicus de Spinoza, cette invasion hardie du rationalisme dans la religion ne manquât pas d'antécédents, et parmi ces antécédents on peut placer la publication des Fragments d'un Inconnu, par Lessing, en 1770, et la vive et spirituelle polémique qui s'en suivit ; néanmoins les circonstances parti culières au milieu desquelles Kant renouvela cette tentative, lui donnent à nos yeux un certain mérite d'indépendance et de courage.
+Faire dériver la religion de la raison, soumettre à une interprétation rationaliste tous les dogmes et les mystères du christianisme, telle est la prétention de Kant, prétention indiquée par le titre même de l'ouvrage, dont nous donnons l'abrégé : De la Religion dans les limites de la raison. Mais Kant soumet cette interprétation à ses principes métaphysiques, et la Religion dans les limites de la raison se trouve en un certain rapport avec la Critique de la raison pure. Voici quel est ce rapport. Notre intelligence ne peut rien voir, rien connaître, si ce n'est au travers des lois et des formes qui lui sont propres ; elle ne peut par conséquent rien affirmer sur ce que les choses sont en elles-mêmes, mais seulement sur ce qu'elles sont par rapport à nous ; elle ne peut saisir des réalités, mais seulement des phénomènes et des apparences ; elle n'a qu'une valeur subjective et point de valeur objective, telle est la conclusion suprême de la Critique de la raison pure. Kant est conséquent avec son principe jusqu'à la négation de l'existence de Dieu. La raison pure, soit par la voie empirique, soit par la voie ontologique, déploie, selon lui, vainement ses ailes pour s'élever jusqu'à Dieu. Il y a bien en nous l'idée de Dieu, mais cette idée n'a qu'une valeur régulatrice ; elle ne vaut que comme une règle excellente propre à nous diriger dans l'investigation des phénomènes en nous forçant à les rapporter à la plus haute unité possible, mais elle n'a aucune valeur objective, c'est-àdire que notre intelligence est dans l'impuissance absolue de s'assurer que
+
+cette idée correspond à une réalité. Mais Kant ne persévère pas jusqu'au bout dans ce triste scepticisme, et s'il est sceptique en métaphysique, il n'est pas sceptique en morale. En effet, cette valeur objective qu'il nie à la raison pure, il l'accorde à la raison pratique par une contradiction dont il faut lui savoir gré, car c'est à cette contradiction que nous sommes redevables du système de morale le plus vrai et le plus pur qu'ait produit la philosophie moderne. Sur l'autorité de la raison pratique, c'est-à-dire de la loi morale, il rétablit ces grandes vérités de l'existence de la liberté, de l'existence de Dieu, de la vie à venir, qu'il a ébranlées dans la Critique de la raison pure. Il y a, dit Kant, au dedans de nous un précepte obligatoire, un impératif catégorique qui nous prescrit d'agir de telle ou telle façon, donc il faut que nous soyons libres. Je dois, donc je puis, donc je suis libre. Cette même loi nous prescrit certains actes pour la réaliser au dehors de nous, donc le monde existe ; enfin cette même loi suppose un législateur, et un législateur qui établisse l'accord nécessaire que notre raison conçoit a priori devoir exister entre le bonheur et l'accomplissement de cette loi, donc Dieu existe. Ainsi, selon Kant, c'est uniquement comme législateur moral que la raison conçoit Dieu, puisque c'est uniquement par la loi morale qu'elle peut s'élever jusqu'à lui. C'est dans ce point de vue, c'est dans la pratique de la loi morale et dans le rapport de cette loi avec son divin législateur que Kant fait consister toute la religion rationnelle. Or, nous qui ne croyons pas seulement à l'objectivité de la loi morale, mais aussi à l'objectivité de toutes les notions de la raison, nous croyons que l'attribut de législateur moral n'est pas le seul sous lequel il nous soit donné de concevoir la nature divine, nous croyons à la possibilité d'une détermination plus complète de la nature et des attributs de Dieu, de la nature et de la destinée de l'homme, détermination qui est l'essence même de toute religion. Kant a ainsi été conduit par son système philosophique à n'envisager Dieu que comme législateur moral et l'homme comme sujet de cette loi. C'est donc à peu près uniquement par le côté pratique qu'il a considéré la religion. Mais si Kant, placé sous l'influence de la Critique de la raison pure, n'a pas embrassé tous les éléments qui entrent dans la conception d'une religion, il a admirablement approfondi et développé celui de tous qui intéresse au plus haut degré l'universalité des hommes, l'élément moral et pratique. Sous ce point de vue, le livre que nous publions est plein de vérités fortes et fécondes. Il attaque et détruit toute superstition dans son principe, il fortifie dans les âmes le sentiment du devoir en le dégageant de tout alliage impur,
+
+en le rapportant à la source divine d'où il émane. C'est un admirable catéchisme de morale. Mais ce catéchisme, dira-t-on, ne s'adresse qu'à ceux qui sont initiés à la philosophie de Kant. Il est vrai, ainsi que je l'ai montré, qu'il est en un certain rapport avec la Critique de la raison pure, mais néanmoins il est intelligible par lui-même, et ce que Kant répond à cette objection dans la seconde préface de son ouvrage, nous pouvons le dire à plus forte raison de l'abrégé qui l'emporte de beaucoup par la précision et la clarté sur l'ouvrage lui-même.
+« Pour connaître ce livre dans son contenu essentiel, il ne faut que la morale commune, sans entrer dans la Critique de la raison pratique, encore moins dans la Critique de la raison pure ; si, par exemple, on y nomme virtus phenomenon cette vertu qui consiste à conformer ses actions au devoir seulement par égard pour la légalité, et virtus noumenon cette autre vertu qui consiste dans la volonté persévérante d'accomplir les mêmes actions uniquement en vue de leur moralité, c'est simplement pour se conformer à la langue de l'école. Mais la chose qui est ainsi exprimée est contenue dans l'instruction donnée aux enfants ou dans le sermon le plus populaire, et quoique sous d'autres termes, elle est facile à comprendre. Que ne peut-on dire la même chose des mystères de la nature divine compris dans la dogmatique, qui sont introduits dans les catéchismes, comme s'ils étaient tout-à-fait populaires ! »
+La première question que traite Kant est celle de l'origine du mal. À voir le titre de cette première partie : « l'homme est méchant par nature, il y a en lui un principe du mal, » on pourrait croire que Kant considère l'homme comme naturellement pervers, et place l'origine du mal en dehors de la volonté de l'individu, dans un héritage fatal transmis de génération en génération ; il n'en est rien cependant, et bien au contraire, c'est uniquement dans la volonté de l'individu qu'il place la source première du mal. Le principe du mal ne peut être, selon lui, ni dans les tendances de la sensibilité, ni dans la raison. Comment serait-il dans les tendances primitives de la sensibilité, puisque ces tendances ne viennent pas de nous, mais de notre nature qui est l'ouvrage de Dieu ? Comment serait-il dans la raison, puisque la raison nous prescrit le bien, nous le montre comme obligatoire et nous l'impose comme un motif se suffisant à lui-même ? Si la raison était pervertie, si, au lieu de nous prescrire le bien, elle prescrivait ou même permettait le mal, alors il n'y aurait plus de place pour le bien dans l'homme, alors, selon l'énergique expression de Kant, l'homme serait un
+
+être diabolique. D'où vient donc le mal ? Il vient des rapports de la liberté avec la loi morale. En vertu de notre liberté, nous bouleversons l'ordre naturel de nos motifs d'action, nous subordonnons la loi morale, motif suprême, à d'autres motifs, voilà en quoi consiste le mal et voilà quelle est son origine.
+Mais quelle est donc cette loi suprême, d'où émane-t-elle, quelle en est l'autorité et la valeur ? La loi morale, selon Kant, est un idéal que chaque homme porte au dedans de lui, un type de ce qu'il doit faire pour demeurer ou redevenir juste et saint. Notre conscience nous dit quelles actions sont conformes à cet idéal, et quelles actions lui sont opposées, et en même temps elle nous prescrit les unes et nous défend les autres. Kant, dans sa morale a, ainsi formulé une règle qui ne permet en aucun cas de les confondre : -- « Agis de telle sorte que le motif de ton action puisse toujours être érigé en loi universelle, pour tous les êtres raisonnables. » -- En présence de cette règle, appliquée avec fermeté et bonne foi, se dissipent toutes les incertitudes et toutes les équivoques, toutes les subtilités de la casuistique morale qui est contenue tout entière dans cette règle, comme toutes les règles du syllogisme sont contenues dans cette règle générale, que la conclusion ne doit pas dépasser les prémisses. Est-il permis d'agir ainsi ? Il n'est pas de sophisme que n'inventent l'intérêt et la passion pour vous le persuader, vous balancez incertain, comparez le motif d'après lequel vous voulez agir avec cette règle, agissez ensuite ou n'agissez pas selon que vous jugerez que ce motif peut ou ne peut pas être converti en maxime générale d'action, et vous pourrez bien errer dans les voies de l'intérêt et de la passion, mais non dans les voies de la justice. En outre, cet idéal qui est en nous, ce n'est pas nous qui en sommes les auteurs, il n'est pas un produit de la nature humaine, il habite en elle, mais il ne vient pas d'elle. Quelle est donc son origine ? Selon Kant il vient de Dieu, il existe en Dieu de toute éternité, et c'est du sein de Dieu dont la moralité, sans bornes est l'essence même, qu'il descend dans la nature humaine pour la guider et pour la conduire. Il est un reflet de la splendeur divine qui pénètre dans l'âme humaine. Il est le fils unique de Dieu descendu parmi nous. C'est en lui et par lui que Dieu a aimé le monde. Si Kant s'est trompé sur l'origine et la valeur des autres idées de la raison pure, il ne s'est pas trompé, sur la nature et sur l'origine de l'idéal de la justice. Nous ne sommes pas plus mystiques que Kant, et cependant, comme lui, nous croyons que cet idéal vient de Dieu, de cette substance et de cette intelligence infinie avec laquelle nous
+
+sommes tous nécessairement en rapport, et nous continuerons à le croire jusqu'au jour où il nous aura été démontré qu'il est l'oeuvre de la nature humaine. L'idéal de la justice, fondement de la morale, découle de Dieu, donc il n'y a pas de justice, pas de morale sans Dieu ; sans doute dans l'ordre de la connaissance, l'idée de la justice peut aller sans l'idée de Dieu, mais dans l'ordre de la réalité, ces deux idées sont inséparables ; dans l'ordre de la réalité il n'y aurait pas plus de morale et de justice sans Dieu, qu'il n'y aurait de lumière si le soleil, foyer de la lumière, venait à être anéanti.
+C'est par ce point de vue que la morale se rattache à la religion, c'est sur l'idéal de la moralité ainsi considéré que Kant fonde toute sa religion dans les limites de la raison. Toutes les fois que Kant parle de ce divin idéal, son style en même temps que sa pensée s'élèvent : « il y a deux choses, dit-il, dans la conclusion de la Raison pratique qui remplissent mon âme d'un respect et d'un admiration toujours croissants, c'est le ciel étoilé au-dessus de nous, et la loi morale au dedans de nous. »
+Se conformer à cet idéal, voilà toute la morale et toute la religion. L'homme bon est celui qui adopte cette loi comme maxime suprême et absolue, l'homme mauvais est celui qui la subordonne à un autre motif, par exemple à l'amour de soi. Selon que l'homme est disposé à faire prédominer en toute occasion le motif de la loi morale sur tous les autres ou selon qu'il est disposé à le sacrifier occasionnellement à des motifs inférieurs, il est tout entier bon ou tout entier mauvais. Le mauvais principe est cette tendance de chaque homme à subordonner, par suite de sa liberté, la loi du devoir à ce qui ne doit passer qu'après elle. Cette tendance n'est point un élément essentiel de la nature humaine, mais résultant de sa liberté, elle se trouve en chaque homme, et c'est en ce sens seulement que Kant affirme que l'homme est mauvais par nature.
+Tous les éléments essentiels de la nature humaine sont bons, toutes les tendances primitives de la sensibilité considérées en elles-mêmes, non seulement sont irréprochables, mais salutaires et providentielles, tout le mal est dans la direction que leur imprime notre liberté. Nous sommes de l'avis de Kant sur cette question de la nature et de l'origine du mal. D'une part il est faux, comme la plupart des théologiens le prétendent, que nous naissions avec des instincts d'une nature essentiellement mauvaise, de l'autre il n'est pas moins faux, comme quelques philosophes l'ont prétendu, que tous aient droit à un égal développement et que les inconvénients auxquels cet égal
+
+développement peut donner lieu soient uniquement la conséquence d'une mauvaise organisation sociale. Il existe entre les divers penchants de notre nature, entre les divers motifs qui sollicitent notre volonté, un ordre de prééminence révélé par la conscience. Les efforts que nous sommes obligés de faire pour tenir dans leurs limites légitimes les instincts inférieurs de notre nature, pour subordonner les motifs de la sensibilité au motif suprême de la loi morale, voilà en quoi consiste ce que les théologiens et les moralistes ont appelé la lutte de l'esprit et de la chaire. Notre devoir n'est pas d'étouffer et de détruire en nous ces motifs, il est de les mettre à leur place. Laisser prédominer la chair en nous, ou travailler à l'anéantir, sont deux excès de nature opposée qui tous deux ont également de dangereuses conséquences. Entre ces deux excès se trouvent la vérité et la raison. Il y a un milieu entre Siméon le Stylite et le pourceau d'Épicure, et c'est dans ce milieu que doit se placer la partie sage et raisonnable de l'espèce humaine. C'est aussi dans ce milieu que la morale et la religion de Kant prescrivent à l'homme de se tenir.
+Kant entreprend ensuite de prouver, ce qui est plus difficile, que l'Écriture fait dériver, comme lui, le péché, le mal de la liberté de l'homme, et il interprète à sa manière le récit de la chute primitive d'Adam. Cette interprétation n'est pas la seule à laquelle Kant soumette les Écritures pour les ramener à un sens rationaliste et conforme à ses opinions philosophiques. Il tend à transformer tous les mystères en des allégories morales. La doctrine du verbe fait chair, du fils de Dieu descendu parmi les hommes, est pour lui la réalisation objective de l'idéal de la moralité et de la sainteté, de l'idéal de l'humanité agréable à Dieu. Puisque cet idéal ne vient pas de nous, il convient de dire qu'il est descendu du ciel en nous, qu'il a choisi son séjour parmi les hommes. Or, cet idéal de l'humanité agréable à Dieu, sous quelle forme peut-on se le mieux représenter que sous la forme d'un homme de condition purement humaine, mais animé de sentiments purement divins prêt à remplir tous les devoirs de l'humanité, à lui servir de leçon et d'exemple, même en dépit des plus puissantes tentations, même au prix des plus affreuses souffrances et de la mort la plus ignominieuse. La Trinité, c'est Dieu envisagé sous trois points de vue divers par rapport à la loi morale, comme législateur moral, comme conservateur moral, comme administrateur moral. C'est avec le même esprit et un principe analogue qu'il interprète le mystère de la Rédemption. Parmi ces interprétations, il en est qui ne manquent assurément ni
+
+d'élévation ni de grandeur morale, mais sont-elles exactes, sont-elles la traduction fidèle de la pensée contenue dans les saintes Écritures ? C'est un point sur lequel nous n'attaquerons pas Kant qui, à ce sujet, fait lui-même fort bon marché de toute prétention, comme on peut en juger par la citation suivante (parag. 101).
+« Peut-être certains passages de l'Écriture ne pourront être ramenés aux principes de la morale, c'est-à-dire de la vraie religion, sans que cette interprétation ne paraisse forcée et même ne le soit souvent en effet ; néanmoins, dès qu'un passage est susceptible d'une telle interprétation, il faut la préférer à la lettre morte qui ne renferme absolument rien pour la moralité ou qui est même en opposition avec ses principes. »
+L'homme étant devenu mauvais par le fait de la liberté en vertu de laquelle il a contracté une tendance à subordonner la loi morale à d'autres motifs, comment pourra-t-il retourner du bien au mal, comment fera-t-il triompher le bon principe de la domination du mauvais principe sous laquelle il s'est placé ? c'est par la force de sa volonté, c'est en rétablissant en lui dans toute son autorité, dans toute sa pureté et sa sainteté la loi morale. À l'homme coupable la conscience prescrit de sortir du mal pour retourner au bien, donc il le peut, mais cette prescription absolue de s'amender soi-même, d'épurer la maxime fondamentale de sa conduite exige de la part de l'homme de rudes sacrifices, une volonté ferme et persévérante, et notre raison paresseuse s'efforce de l'éluder, en s'affranchissant de cette dure nécessité. Elle cherche de toute part des appuis et des secours étrangers, elle évoque à son aide tout un cortège d'idées religieuses impures. Pour se dispenser d'un pénible effort, elle se persuade qu'elle est impuissante, qu'elle ne peut rien sans l'assistance de grâces surnaturelles, et, au lieu de travailler à nous amener par nos propres forces, à réformer nos sentiments et notre vie, nous aimons mieux, ce qui est moins pénible, tendre nos bras vers le ciel, crier Seigneur ! Seigneur ! et attendre la grâce d'en haut. Que par des mouvements mécaniques des lèvres, que par de vains désirs, par des jeux pieux, en un mot, par des pratiques indifférentes en elles-mêmes pour la moralité, on puisse plaire à Dieu, c'est une croyance populaire contre laquelle Kant, dans tout son livre, ne cesse de protester et qu'il flétrit du nom de fétichisme. C'est donc par ses propres forces que l'homme doit se régénérer, sans compter sur d'autre appui que celui de l'énergie et de la persévérance de sa volonté.
+
+Mais comment pourra-t-il se réhabiliter aux yeux de Dieu ? L'homme qui accomplit son devoir ne fait rien de plus que ce qu'il doit ; si donc l'homme régénéré ne fait qu'accomplir ce qu'il doit et rien de plus, qui acquittera pour lui la dette de ses iniquités passées ? Ne plus contracter de dettes nouvelles, ce n'est pas acquitter les anciennes. Kant résout ainsi cette difficulté, sans jamais sortir du rationalisme le plus pur. Changer moralement, c'est sortir du mal et entrer dans le bien, c'est dépouiller le vieil homme pour devenir un homme nouveau, et commencer une existence nouvelle. Or, entre le vieil homme et l'homme nouveau, il y a, pour ainsi dire, solution de continuité morale. Le passage du bien au mal, la mort du vieil homme, le crucifiement de la chair, est un sacrifice en soi, c'est le commencement d'une longue série de peines, de souffrances que l'homme régénéré devra supporter pour rompre complètement avec les sentiments, avec les maximes du vieil homme. Mais quoique, sous le rapport physique, l'homme nouveau soit identique avec le vieil homme, et soit toujours aux yeux de Dieu le même coupable, néanmoins sous le rapport moral, il est autre, et comme c'est à cause du vieil homme, qu'il subit une peine qu'il ne mérite pas, en tant qu'homme régénéré, en tant qu'homme nouveau, son sacrifice et ses souffrances peuvent ainsi se reporter sur le vieil homme et acquitter les dettes passées.
+Mais la loi morale prescrit une entière conformité de la conduite avec l'idéal de la sainteté. Or, combien l'homme régénéré ou même l'homme qui a constamment persévéré dans le bien n'est-il pas loin d'atteindre cet idéal ? Sans doute, à ne consulter que l'expérience, il n'est aucun homme dont les actions soient une réalisation complète du divin idéal. Mais Dieu est le scrutateur des coeurs, il ne considère pas seulement les actions, il considère le sentiment, l'intention qui nous anime, et à celui qu'il voit animé des sentiments les plus purs, de l'intention la plus ferme de persévérer dans le bien et de se rapprocher de plus en plus de l'idéal de la sainteté il tient compte de la fermeté, de la pureté de cette intention, et il ne le juge pas uniquement sur l'insuffisance des actes. C'est ainsi que, selon Kant, l'homme déchu peut se régénérer, c'est ainsi que notre réhabilitation, comme notre déchéance, est notre propre ouvrage, est un produit de notre liberté. Kant résume lui-même admirablement toute cette discussion sur l'origine du mal et sur le retour au bien de l'homme déchu.
+« L'homme porte en soi l'idéal de la perfection humaine, son devoir est de le réaliser, autant qu'il le peut, par la pureté morale de ses sentiments,
+
+aussi bien que par ses actions. La sensibilité n'y met point d'obstacles, comme on l'en a si souvent accusée, car la tendance de l'homme au bonheur est légitime, mais elle doit être subordonnée aux principes de la moralité. Par une certaine perversité ou méchanceté, peu importe le nom, dont l'homme seul est coupable, il renverse l'ordre moral de la maxime suprême, il se soumet en esclave au mauvais principe et devient nécessairement un objet de déplaisir pour la divinité. Mais il ne peut absolument redevenir bon et agréable à Dieu, subjuguer en lui le mauvais principe et trouver la guérison, qu'autant qu'il adopte en entier dans l'intimité de son sentiment, l'idée de la perfection morale, la foi pratique au fils de Dieu (parag. 79). »
+L'homme, après s'être affranchi de la domination du mauvais principe, ne peut persévérer dans le bien qu'à la condition d'être sans cesse armé pour le combat, afin de repousser ses attaques sans cesse renaissantes. Mais si, dans sa lutte contre le mal, il demeure isolé, si, exposé de toute part aux séductions et aux tentations de la société au milieu de laquelle il vit, il ne peut, pour les repousser, compter que sur ses propres forces, il est à craindre que dans cette lutte il ne succombe. En effet, la plupart des tentations auxquelles l'homme est exposé, résultent plutôt de ses liens avec les autres hommes, que de l'imperfection de sa propre nature. C'est dans la société et par la société, telle qu'elle est constituée, que la plupart des passions mauvaises se forment et s'alimentent. Sous le rapport moral, nous sommes encore à l'état de nature divisés, isolés, nous induisant les uns les autres au mal, au lieu de former une ligue contre lui. Selon Kant, il faut sortir de cet état de nature, et travailler à en sortir est un devoir, il faut faire cause commune contre le mal moral, et, par conséquent, constituer une société de telle sorte, que chaque individu y trouve un point d'appui puissant pour vaincre le mal et faire triompher le bien. C'est l'organisation d'une pareille société que Kant appelle la fondation du royaume de Dieu sur la terre, l'établissement de la véritable Église.
+L'idée d'une société tellement organisée qu'elle forme comme une barrière puissante contre le mal moral, est une grande et magnifique idée qui fait honneur au génie de Kant. De Kant elle a passé à Fichte qui la développe avec amour dans la dernière partie de la Destination de l'homme, et rêve une société tellement constituée que la pensée même du mal sera chassée de l'âme du méchant. Cette idée est aussi l'idée fondamentale de la plupart des socialistes qui ont paru dans le cours du siècle, tous ont eu pour
+
+but la constitution d'une société qui ne laissât plus de prise, ou le moins de prise possible soit au mal moral soit au mal physique. Leur but est le même à tous, ils ne diffèrent que par les moyens qu'ils proposent pour l'atteindre. Kant ne s'occupe que du mal moral, et la société qu'il propose pour le combattre n'est aussi qu'une société purement morale ou éthique. Le but unique d'une telle société, c'est de combattre le mal intérieur, c'est de faire triompher le bien en chacun, et de produire le plus grand perfectionnement moral possible. Les lois d'une pareille société ne sont pas des lois coercitives, des lois écrites comme les lois de la société civile et politique, ce sont les lois du devoir et de la vertu. Ces lois n'émanent pas, comme les lois civiles, de la volonté du peuple, car elles ne s'adressent qu'à la moralité pure, car elles ne peuvent être convenablement suivies qu'en vertu de la liberté et non en vertu de la contrainte ; elles émanent d'un législateur invisible dont chacun de nos devoirs est un ordre, d'un législateur qui scrute et sonde les coeurs, qui pénètre dans les replis les plus cachés des intentions et des sentiments de notre âme. Donc, cette société morale conçue par Kant, est une république composée de citoyens libres, soumis aux commandements de Dieu ; et cette république morale, ainsi gouvernée par une législation morale divine, constitue l'idée pure de l'Église invisible et idéale, composée d'hommes de bien, tous soumis à la même loi divine du devoir. L'église visible et réelle doit être l'image de cette Église invisible et idéale, elle doit représenter le règne de Dieu sur la terre, tel qu'il peut être réalisé par les forces humaines. Or voici quels doivent être les caractères nécessaires et les signes distinctifs de la véritable Église. Elle doit être une et universelle, mais son unité ne porte que sur le point de vue essentiel de la moralité. Pour tout le reste, elle admet en son sein des opinions diverses et variables, donc elle n'engendre ni sectes, ni hérésies ; elle doit être pure, c'est-à-dire, n'employer pour mobiles que des mobiles moraux ; elle doit être libre, tous ses membres sont égaux, et toutes leurs relations doivent s'accomplir sous le principe de la liberté ; enfin, elle doit être immuable dans sa constitution fondamentale, en changeant, toutefois, selon les temps et les circonstances, ce qui n'a rapport qu'à son administration. Kant compare cette Église à une réunion domestique, à une famille sous la direction d'un père moral commun, mais invisible. Ainsi, c'est la croyance morale pure, ou la croyance religieuse, qui constitue le fondement et l'essence de la véritable Église, et, hors de cette législation morale pure, originairement écrite dans nos coeurs, il n'y a point de véritable Église,
+
+point d'Église universelle. Pourquoi donc cette croyance religieuse n'a-telle jamais régné pure parmi les hommes ? Pourquoi ne s'est-elle jamais produite que mêlée à des éléments étrangers qui ne se trouvent point dans la conscience humaine ? C'est que, selon Kant, c'est une faiblesse propre de la nature humaine de ne pas apprécier à sa juste valeur la croyance morale pure, et de ne pas la considérer comme suffisante. Les hommes ne peuvent se persuader qu'un effort soutenu pour faire le bien est tout ce que Dieu exige d'eux dans son Royaume. Ils ne veulent pas comprendre que s'ils remplissent leurs devoirs envers les hommes, envers eux-mêmes, et envers les autres, ils accomplissent, par le fait même, les commandements divins, ils rendent à Dieu un culte constant. Ils se représentent Dieu comme un grand seigneur, qui veut être honoré par les marques de soumission de ses vassaux, et par des pratiques qui, par là même qu'elles sont insignifiantes en elles-mêmes, semblent dénoncer d'autant mieux une obéissance passive. De là, l'idée d'une religion de culte et d'observances extérieures substituée, ou du moins mêlée à l'idée de la religion morale pure. Et comme cette idée, comme les devoirs, les pratiques, les croyances qu'elle comprend ne se trouvent pas au fond de la conscience, il en résulte qu'elle a besoin d'un point d'appui extérieur et d'une autorité qu'elle emprunte à l'histoire, aux faits, aux miracles, à la tradition, aux Écritures. C'est en quoi consiste la croyance ecclésiastique ou historique que Kant oppose à la croyance religieuse pure. Cependant, eu égard à cette faiblesse humaine qu'il vient de signaler, Kant ne condamne point d'une manière absolue un certain alliage de la croyance ecclésiastique avec la croyance religieuse, pourvu que dans la croyance ecclésiastique il n'y ait rien qui aille contre la croyance religieuse, pourvu qu'elle n'en soit qu'un véhicule, pour ainsi dire, et que ses observances, ses pratiques, ses dogmes tendent tous directement à développer et fortifier dans les âmes le sentiment du devoir. Donc la règle suprême de l'interprétation de l'Écriture qui sert de fondement à la croyance ecclésiastique, doit être la croyance morale pure. C'est cette règle que Kant y a lui-même hardiment appliquée, en s'efforçant, comme déjà nous l'avons dit, de ramener tous ses symboles et tous ses mystères à des vérités et à des allégories morales. Toute recherche, tout commentaire sur l'Écriture doit avoir pour but d'y découvrir cet esprit vivifiant ; quant à la partie historique, qui ne peut aboutira un pareil résultat, c'est-à-dire à une leçon et à une excitation morale, Kant la considère comme parfaitement
+
+indifférente en soi, et déclare qu'à son égard, chacun peut agir comme bon lui semble.
+Les religions actuelles et toutes les religions qui, jusqu'à ce jour, ont paru dans le monde, ont donc admis à côté de la croyance religieuse pure, qui est seule le vrai fondement de la religion universelle, une croyance ecclésiastique ou historique. Le passage successif de la croyance ecclésiastique à la souveraineté de la croyance religieuse pure, voilà en quoi consiste le vrai progrès moral et religieux, voilà le signe de l'approche de Dieu. Un jour viendra, selon Kant, et ce jour approche, où l'esprit humain dépouillera toute croyance ecclésiastique et historique ; un jour viendra où la religion rationnelle pure n'ayant plus besoin de cette introduction et de ce véhicule, dominera sur toutes les autres religions.
+« Les enveloppes dans lesquelles l'embryon se forme, grandit et devient homme, doivent être déchirées s'il veut voir la lumière du jour. Les lisières de la tradition sacrée, les amulettes, les statuts et les observances qui ont été utiles à l'homme pour un temps, lui deviennent peu à peu inutiles et sont pour lui des chaînes quand il atteint l'âge de la virilité. Tant que le genre humain était un enfant, il avait la prudence d'un enfant et il savait rattacher aux dogmes qui lui avaient été imposés sans son aveu, d'abord une science, puis une philosophie soumise et dévouée à l'Église. Mais maintenant qu'il est devenu homme, il rejette tout ce qui était bon pour l'enfant. La différence humiliante entre les laïques et les clercs cesse, et leur égalité naît de la véritable liberté, sans anarchie toutefois, car chacun obéit à la loi qu'il se dicte à lui-même et qui doit être aussi par lui considérée comme la volonté du créateur révélée à son esprit par la raison, volonté qui réunit tous les hommes d'une manière invisible, sous un gouvernement commun en un même état qui prépare l'Église visible[4].
+Kant confirme les résultats de cette discussion philosophique touchant la nature et l'origine du règne de Dieu sur la terre, par un tableau historique, relatif à la fondation et à l'introduction insensible de la véritable Église. Il n'y a eu, à proprement parler, d'Église sur la terre, qu'à partir de l'époque où l'on a reconnu que la croyance ecclésiastique devait être dans la dépendance de la croyance religieuse. Kant fait dater cette époque de l'avènement du christianisme. Il met tout d'abord le judaïsme hors de cause, parce que sa constitution est une constitution plutôt politique que religieuse, parce que Dieu dans ses dogmes, est avant tout un prince temporel, qui
+
+s'inquiète plus des actes extérieurs que de la moralité pure des sentiments et des intentions. En opposition au judaïsme, le christianisme s'est produit avec les caractères qui constituent une véritable Église, avec les caractères d'une croyance universelle, sainte, libre, invariable. Car son divin fondateur a déclaré, comme chose vaine en soi, la croyance servile aux usages du culte, aux formules consacrées, et il renferme tous les devoirs dans cette règle à la fois générale et particulière : Fais ton devoir sans autre motif que la considération immédiate du devoir lui-même ; c'est-à-dire, aime Dieu, législateur de tous les devoirs, par-dessus toute chose ! Aime le prochain comme toi-même. Il a prêché que la foi qui se manifeste par la moralité, est la seule foi qui sauve. Il a donc ramené publiquement au sein du peuple Juif, la croyance de l'Église à la croyance religieuse pure. Tel a été l'esprit de l'institution première du Christianisme. Bientôt à cette croyance religieuse pure, vint s'ajouter une croyance historique qui, dans le principe, devait servir seulement d'introduction et de véhicule à la foi religieuse, pour rallier à la foi nouvelle, par ses propres préjugés, un peuple accoutumé à une croyance fondée sur des faits historiques. Mais, par un mauvais penchant de la nature humaine, ce qui n'était qu'une introduction à la vraie religion, est devenu le fondement, l'essence même de cette religion, et l'histoire du Christianisme, histoire tragique et sombre, peut s'expliquer toute entière, par la lutte de ces deux éléments, par la lutte de la croyance religieuse pure contre la croyance ecclésiastique, par l'effort des autres pour faire dominer la pure croyance religieuse, par l'effort des autres pour maintenir la croyance ecclésiastique comme fondement de la vraie religion.
+Quelle est l'époque la moins mauvaise de cette histoire ? À quel temps la vraie religion a-t-elle exercé le plus d'empire sur les âmes ? Kant s'adresse à lui-même cette question, et il répond que ce temps est celui dans lequel il lui a été donné de vivre, c'est-à-dire la fin du XVIIIe siècle. Il est, sans nul doute encore, grand nombre d'esprits auxquels une telle assertion paraîtra étrange. Mais, que l'on y songe, si la vraie religion consiste dans la croyance religieuse pure, dans la foi morale, dans le sentiment et la pratique de la justice, le XVIIIe siècle n'a-t-il pas des droits à ce glorieux témoignage ? En effet, en quel temps du monde un effort plus héroïque a-til été tenté, pour faire régner sur la terre la pure croyance religieuse, pour réaliser le divin idéal de la justice au sein des sociétés humaines ? En quel temps du monde s'était-on aussi vivement soucié des droits et de la liberté de tous ? C'est donc avec raison que Kant a salué ce grand mouvement
+
+philosophique de la fin du XVIIIe siècle, comme le plus beau temps de la vraie Église, comme un signe de l'approche du règne de Dieu.
+La dernière partie de l'ouvrage est consacrée à la question du culte, à la distinction du vrai et du faux culte. Le faux culte est celui qui a la superstition pour principe ; le vrai culte, celui qui seul convient à la vraie religion, c'est le culte moral, c'est-à-dire, le culte qui a pour principe la pratique de la moralité, l'accomplissement du devoir.
+L'unique et vraie religion ne renferme que des lois, c'est à dire, des principes pratiques, tels que nous avons conscience directement de leur nécessité absolue, indépendamment de toute tradition et de toute prescription ecclésiastique. Le vrai culte, le culte moral que les fidèles ont à rendre à Dieu, est un culte invisible comme Dieu lui-même, un culte qui a dans notre coeur ses temples, ses autels et son prêtre, ou du moins, un culte dont toutes les pratiques tendent à éveiller et fortifier le sentiment moral. Hors de ce culte moral, il n'y a plus qu'un faux culte, un culte superstitieux et fétichiste, dont Kant combat les principes avec une éloquence, avec une vigueur de bon sens, qui rappelle la discussion de Socrate contre Entyphron. Kant, dans le faux culte, de même que Socrate dans la sainteté entendue au sens du prêtre Entyphron, ne voit qu'un art mercantile de donner et de recevoir, de donner peu afin de recevoir beaucoup, une espace de trafic entre Dieu et l'homme[5].
+Ce qu'il y a de plus difficile pour l'homme coupable, c'est la réforme intérieure, la réforme des sentiments et du coeur, et, par tous les moyens possibles, il tâche de s'en dispenser, et il lui cherche de moins pénibles équivalents, dans des pratiques qu'il présume devoir être agréables à Dieu. Il se fait un Dieu à sa façon, un Dieu qu'il espère pouvoir facilement mettre dans ses intérêts, et par une foule de pratiques qui n'ont aucun rapport direct avec la moralité, il s'efforce de lui plaire en lui montrant qu'il est un sujet soumis et dévoué. De là l'origine première des sacrifices, des pèlerinages, des cérémonies solennelles, etc., qui sont regardés comme des moyens d'autant plus puissants de se concilier la bonne grâce de Dieu, qu'ils semblent témoigner d'une soumission plus illimitée et plus aveugle à sa volonté. « Il est pénible, dit Kant, d'être un bon serviteur, car alors on n'entend plus parler que de devoirs. L'homme aimerait mieux être un favori, pour lequel on aurait beaucoup d'indulgence, ou qui, même quand il violerait grossièrement la loi du devoir, réparerait ses torts par l'intervention
+
+de quelqu'un dont il serait éminemment favorisé, tandis qu'il continuerait à être ce qu'il a toujours été, un serviteur négligent. Il applique à la divinité l'idée qu'il a d'un homme puissant qui distribue des grâces, il espère s'acquitter de tout envers elle par des actes de soumission, et tout obtenir de sa divine faveur (parag. 195).
+Cette croyance que l'on peut plaire à Dieu par des actes indépendants de la moralité, et qu'on peut attirer sa grâce par d'autres moyens que par une bonne conduite, est le principe du faux culte, la source première de toute superstition ; Kant la traite sévèrement. Croire qu'on peut ainsi se concilier la faveur de Dieu par des actes dans lesquels la moralité n'entre pour rien, c'est croire qu'on possède un art de produire, par des moyens naturels, des effets surnaturels, c'est une sorte de croyance à la magie, ou plutôt c'est du fétichisme. Un culte organisé d'après ce principe, un culte dont le fondement consiste en des pratiques, des observances, des cérémonies qui sont supposées pouvoir tenir lieu de moralité, ou du moins pouvoir lui suppléer en une certaine mesure, ce culte, Kant l'appelle un culte de fétiche. Les conséquences d'un tel culte sont le renversement des idées morales, et l'asservissement de la foule enchaînée à ces pratiques prescrites.
+Toutefois Kant ne condamne point d'une manière absolue le culte extérieur, quoiqu'il ne croie pas à son indispensable nécessité. Le culte extérieur ne devient mauvais que lorsqu'on y donne pour but ce qui n'est qu'un moyen ; il peut être utile et salutaire lorsqu'il n'est considéré que comme un moyen direct d'éveiller, et de fortifier dans les âmes le sentiment de la moralité. Voici quels sont les fondements rationnels d'un pareil culte : 1° la prière ; 2° la fréquentation de l'Église ; 3° le baptême ; 4° la communion. Mais Kant a bien soin de déterminer le sens particulier et tout rationnel dans lequel il adopte ces quatre manifestations fondamentales du culte extérieur. La prière dont il s'agit ici n'est point cette prière par laquelle chacun sollicite incessamment en sa faveur une perturbation dans l'ordre du monde, une exception aux lois générales de la nature. La prière légitime ne peut raisonnablement consister que dans une certaine forme, dans certaines formules dont on revêt la pensée de faire le bien et de persévérer dans le bien, afin de nous pénétrer davantage de cette pensée. La fréquentation de l'Église, la réunion en des assemblées publiques est un devoir pour les fidèles comme citoyens de l'état divin qui doit être représenté sur la terre, à moins toutefois que cette Église ne renferme des symboles idolâtriques et des principes qui répugnent à la conscience. Mais
+
+ce serait une erreur de considérer cette fréquentation comme un moyen d'obtenir la grâce, et comme agréable à Dieu par elle-même. Le baptême est aussi une cérémonie sainte, c'est l'adoption dans le sein de l'Église d'un enfant de Dieu, c'est un emblème moral d'une haute portée, mais il n'emporte avec lui aucune grâce directe, il ne donne par lui-même aucun droit à la faveur divine.
+Enfin la communion, sous la forme d'un repas pris en commun à l'exemple et en commémoration du fondateur de l'Église, a quelque chose de grand, quelque chose qui rappelle aux hommes cette fraternité dont elle est un heureux symbole. Toutes ces pratiques sont donc bonnes en ce qu'elles éveillent dans l'homme le sentiment moral, en ce qu'elles le pénètrent de l'idée de son devoir et de sa vraie destinée ; mais les considérer comme des moyens directs d'évoquer la grâce divine et de la faire descendre miraculeusement sur nos têtes, c'est s'éloigner tout-à-fait de l'esprit de la vraie religion, c'est tomber dans le fétichisme. Tel doit être le culte extérieur, tel doit être son esprit. Il n'est pas essentiel à la vraie religion qui consiste uniquement dans l'accomplissement du devoir rapporté à sa source divine, il est seulement un moyen qui peut aider l'homme à atteindre sa fin morale. Convertir ce moyen en un but, c'est ouvrir la porte à toutes les superstitions et à toutes les idolâtries.
+Tels sont les principes fondamentaux de la Théorie de Kant sur la religion dans les limites de la raison. Travailler de tous nos efforts à réaliser au dedans de nous l'idéal de la sainteté qui émane de Dieu lui-même, travailler de tous nos efforts à ne jamais dévier des sentiers de l'honnêteté et de la justice, voilà en quoi consiste, selon Kant, toute la religion, voilà la loi et les prophètes. La vraie religion s'identifie, selon Kant, avec la morale. Selon nous, c'est seulement la pratique de la vraie religion qui s'identifie avec la morale, car la vraie religion, en outre de la morale, contient la métaphysique et doit comprendre une solution, une détermination de la nature de Dieu, de la nature et de la destinée de l'homme et de ses rapports avec Dieu. Mais il est inutile de rappeler ici de nouveau comment cette erreur de Kant tient au principe même de sa métaphysique. Malgré cette erreur que nous avons suffisamment signalée, nous avons pensé que, dans les circonstances présentes, ce livre pourrait être d'une haute utilité morale, et tel est l'unique motif qui nous a déterminés à le publier.
+C'est toujours une chose bonne et salutaire que de mettre sous les yeux des hommes l'idéal auquel ils doivent conformer leur vie, que de leur
+
+rappeler sa divine origine, or, c'est là précisément le but principal du livre de Kant. Cette règle invariable des actions, cette règle claire pour tous, excepté pour celui qui consent à se laisser aveugler par l'intérêt ou par la passion, nul philosophe moraliste, mieux que Kant, ne l'a mise en évidence, nul, mieux que lui, ne l'a présentée aux hommes dans toute sa pureté et toute sa sainteté. Il a fait plus, il en a démontré la céleste origine, et par là il a déterminé les vrais rapports de la religion avec la morale. Cette règle sainte et absolue ce n'est pas l'homme qui se l'est donnée à lui-même, elle vient de Dieu, et les devoirs qu'elle nous prescrit sont des ordres divins. Accomplir ces devoirs, c'est donc servir Dieu directement, c'est le servir et l'honorer de la seule manière dont il a voulu être servi et honoré. Toute autre manière de le servir tombe dans l'idolâtrie et le fétichisme.
+Développer les idées religieuses chez les uns, les rectifier chez les autres, tel peut être, à ce qu'il me semble, le double résultat des principes et de l'esprit de cette Théorie de Kant sur les rapports de la religion avec la raison. D'une part, les principes posés par Kant pourront servira rectifier les idées religieuses chez ceux qui les séparent des idées morales, et tendent à les faire consister dans de vaines pratiques et de vaines formules, absolument insignifiantes en elles-mêmes. De l'autre, ils pourront servir à les faire naître et à les développer chez ceux qui, s'en tenant à la pratique de la morale, laissent de côté toute idée religieuse comme plus ou moins entachée de superstition, parce qu'ils ignorent le lien qui unit la morale et la religion, parce qu'ils ne savent pas qu'accomplir un devoir, c'est accomplir un ordre divin et par conséquent servir Dieu.
+Enfin, s'il est toujours utile de rappeler à l'homme l'idée du devoir et la source divine d'où elle émane, l'idée de la liberté, de l'indépendance et des droits de la raison est une autre idée qu'il n'est pas encore, peut-être, inutile de travailler à faire pénétrer davantage dans les esprits pour élever la France intellectuelle et philosophique au niveau de l'Allemagne, pour la préserver à tout jamais du sort intellectuel de l'Italie ou de l'Espagne. Or, cette idée, à côté de l'idée du devoir, domine dans tout l'ouvrage, comme elle domine dans toute la morale et dans toute la métaphysique de Kant. Si nul philosophe n'a porté plus haut que lui l'idée du devoir, nul philosophe non plus n'a porté plus haut l'idée corrélative de la liberté et du droit, l'idée des droits de l'homme et de la raison. En métaphysique, il réclame hautement le droit de la raison pure à tout juger, à tout discuter, et proteste contre toute intervention de l'autorité et de la force dans ses libres développements, et
+
+jusque dans ses plus grands écarts. Dans la religion et dans le culte, il rejette bien loin, en vertu du même principe, tout ce qui lui semble contraire à la raison et à la dignité de l'homme. Toute croyance imposée par l'autorité, il la déclare une croyance servile et mercenaire, et nulle croyance pour lui n'a de valeur morale qu'autant qu'elle est librement acceptée par la raison.
+Ces deux idées du devoir et de la liberté, il faut les élever au-dessus de toute discussion, il faut les enfermer dans une arche sainte. Qu'autour de cette arche sainte tous les hommes, dont le coeur est élevé, viennent se rallier pour former, suivant le voeu de Kant, un vrai peuple de Dieu, ardent aux bonnes oeuvres. Qu'ils s'unissent d'abord au sein de cette foi morale, en attendant le jour où ils pourront s'unir au sein d'une foi plus vaste, embrassant toutes les questions que la métaphysique sceptique de Kant n'a pu réussir à retrancher de la philosophie et de la religion, parce qu'elles sont au fond de toutes les intelligences humaines.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+Table des matières Liste générale des titres
+I. L'homme est méchant par nature ; il y a en lui un
+principe de méchanceté
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+1.
+On s'est plaint de tout temps que le monde est mauvais. Les hommes ont prétendu d'un commun accord qu'il a commencé par le bien, mais que la chute rapide dans le mal s'est bientôt manifestée et a fait disparaître le bien.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+2.
+De nos jours, des philosophes et des pédagogues ont été entraînés par une certaine bonté de coeur à soutenir que le monde marche perpétuellement du mal au mieux, et ils ont cru reconnaître cette disposition dans la nature humaine.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+3.
+Cependant cette autre idée se présente naturellement à l'esprit, ne se pourrait-il pas que par sa nature, l'homme ne fût ni bon ni mauvais, ou bien ne serait-il pas à la fois l'un et l'autre, bon par quelques côtés, mauvais par d'autres ?
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+4.
+Si nous considérons l'homme comme un être purement sensible, manifesté par ses actions, l'expérience nous donne ce milieu entre les deux extrêmes. Mais dans les balances de la raison pure, il en est tout autrement.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+5.
+Ce jugement de la raison est fondé sur cette observation importante en morale : Que le libre arbitre ne peut être déterminé à agir par aucun motif que l'homme n'aurait pas adopté pour maxime, et dont il ne se ferait pas une règle générale de conduite.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+6.
+Or, la loi morale est en soi un motif qui se suffit à lui-même ; et celui qui le prend pour sa règle de conduite est moralement bon ; quiconque la viole, ne l'a pas adoptée comme règle ; il agit d'après un motif différent du motif de la loi morale ; il est alors moralement mauvais. En conséquence, la disposition de l'homme à l'égard de la loi morale n'est jamais indifférente, on ne peut jamais dire de l'homme qu'il n'est ni bon ni mauvais.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+7.
+Mais l'homme ne peut pas non plus en même temps être moralement bon par quelques côtés et mauvais par d'autres. Car s'il est bon en un point, alors la loi morale est sa règle, et s'il était en même temps mauvais dans un autre, la loi morale ne serait plus sa règle dans ce cas. Or, comme elle est unique et générale, comme elle commande en un point ainsi que dans tous les autres, elle serait à la fois règle particulière et règle générale, ce qui est contradictoire.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+8.
+Quand on dit que l'homme a en lui comme tendance innée la disposition au bien ou au mal, on ne veut pas dire ici que l'homme dans lequel cette tendance se manifeste, ne l'ait pas acquise, c'est-à-dire qu'il n'en soit pas l'auteur ; mais cela veut dire qu'elle n'est pas acquise dans le temps ; que le fondement du bien ou du mal se trouve en lui antérieurement à toute manifestation de la liberté dans l'expérience ; par conséquent le principe du bien et du mal coexiste avec l'homme, naît avec lui, et cependant la naissance n'en est pas la cause.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+9.
+Comment doit-on donc juger la nature de l'homme ? L'homme est-il naturellement bon ou mauvais ? Considérons les dispositions primitives de la nature qui se rapportent immédiatement à la volonté.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+10.
+Les tendances primitives de la nature humaine qui se rapportent immédiatement à la volonté, peuvent être rangées en trois classes : 1° Tendances relatives à l'animalité, c'est-à-dire à l'homme comme être vivant ; 2° tendances relatives à l'humanité, c'est-à-dire à l'homme en tant qu'être raisonnable ; 3° tendances relatives à la personnalité, c'est-à-dire à l'homme en tant qu'être susceptible d'imputation.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+11.
+Les tendances relatives à l'animalité peuvent toutes êtres ramenées à l'amour physique de soi-même, amour instinctif, dénué de raison. Elles comprennent le penchant à sa propre conservation, à la reproduction de l'espèce, et à la vie en société.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+12.
+Plusieurs vertus et plusieurs vices peuvent être rapportés à cette tendance, qui cependant ne doit pas en être considérée comme la source. Les vices de cette classe sont des vices grossiers, et méritent le nom de bestialité, quand ils s'écartent au plus haut degré du but que s'est proposé la nature. Tels sont la volupté, la débauche, la licence effrénée, etc., etc.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+13.
+Les tendances de la seconde classe se ramènent à l'amour de soi qui ne peut exister qu'à la condition de la comparaison, de l'intelligence, du raisonnement, et qui par conséquent suppose le développement de la raison théorétique. La direction primitive de cet instinct, consiste dans la tendance à nous mettre en harmonie avec les autres. Il est la source de ce déplaisir que nous fait éprouver le fâcheux état des autres, comparé à notre propre situation, ainsi que du mécontentement du triste état où nous sommes comparativement à celui d'autres individus.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+14.
+À ces tendances se rapportent différentes vertus et différents vices ; les vices de cette classe peuvent être appelés vices de civilisation. Mais alors qu'ils sont parvenus à ce haut degré de perversité qui étouffe tout sentiment humain, etc., tels qu'ils se manifestent dans l'envie, dans la joie des maux d'autrui, dans l'ingratitude, etc., ce sont des vices sataniques.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+15.
+Les tendances, relatives à la personnalité dans l'homme, consistent dans la susceptibilité d'estimer la loi morale, de telle sorte que cette estime suffise pour déterminer sa volonté. Sans doute ce n'est que par la liberté, que cette estime peut devenir motif déterminant d'une résolution effective. Mais, pour qu'elle puisse le devenir, il faut qu'il y ait dans la nature humaine une disposition à laquelle rien de mauvais ne se rapporte. Et cette puissance qui réside dans chaque individu, qui est inséparable de la raison pratique, c'est dans l'homme la disposition immédiate pour le bien moral.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+16.
+Ces trois dispositions sont originelles, elles sont inhérentes à la possibilité de la nature humaine. Elles ne sont pas seulement bonnes en ce qu'elles ne contrarient point la loi morale, mais elles sont aussi des éléments pour le bien moral dont elles facilitent l'exécution. L'homme peut à la vérité user des deux premières d'une façon contraire à leur but ; mais il ne saurait en extirper aucune.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+17.
+Il est impossible d'imaginer une disposition primitive pour le mal dans la nature humaine ; car par mal, on n'entend pas ce qui, dans un penchant, peut être contraire à la raison, mais seulement ce qu'il y a de contraire à la raison dans une résolution libre. Le principe de la possibilité du mal existant néanmoins dans l'homme, il doit être considéré comme le produit de sa liberté et par conséquent comme l'objet de l'imputation morale.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+18.
+Ce principe de la possibilité du mal, que l'homme accepte et s'attire à lui-même, consiste dans une manifestation de la liberté qui déjà est mauvaise, et par là même contient le germe de toutes les mauvaises manifestations ultérieures de la liberté. C'est en ce sens qu'on peut dire qu'il y a dans l'homme un penchant au mal, quoique ce penchant ne soit pas néanmoins un élément primitif et nécessairement lié à l'essence de l'homme ; mais tous les hommes s'étant donné ce penchant, il fait partie de la réalité dans l'homme, donc sous ce point de vue il est naturel, et l'homme, à cause de ce penchant, peut être considéré comme méchant par nature.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+19.
+Or, comme le caractère intime du mal et du bien moral est dans les maximes, c'est-à-dire dans les règles de conduite, que la personne se choisit à elle-même en vertu de sa liberté, maximes par lesquelles elle adopte comme motif déterminant de ses résolutions ou la loi morale, ou la peine et le plaisir sans égard à la loi morale, il résulte de là que le principe de la possibilité du mal, ou le penchant au mal que l'homme s'est donné, auquel il a consenti, doit se trouver dans une maxime unique et généralement mauvaise, source de toutes les mauvaises maximes, et qui les renferme toutes.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+20.
+Cette maxime générale dont l'acceptation constitue le penchant au mal, consiste dans la résolution libre et générale de s'écarter occasionnellement de la loi morale. Ainsi le penchant pour le mal est un fait primitif, mauvais en lui-même, qui précède chaque action particulière de la volonté. Ce fait primitif a déjà corrompu toute la volonté, et rendu l'homme mauvais, il est le peccatum originarium, d'où découle tout autre action mauvaise, en tant que peccatum derivativum. On appelle mal absolu ou radical, celui qui est la racine de tout mal dans l'homme, c'est-à-dire la mauvaise maxime générale, source du penchant au mal.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+21.
+On peut se représenter trois différents degrés dans le penchant au mal : 1° la fragilité ; 2° l'impureté ; 3° la méchanceté. La fragilité est la faiblesse du coeur humain dans la pratique de bonnes maximes. L'impureté (unlauterkeit) est le penchant à mélanger de bonnes maximes avec les mauvaises. La méchanceté est le penchant à l'adoption des mauvaises maximes. La méchanceté, considérée comme le penchant à placer les motifs moraux après les motifs immoraux, peut s'appeler corruption ; comme penchant à renverser l'ordre moral des motifs de la volonté, elle peut s'appeler perversité du coeur humain.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I
+Table des matières Liste générale des titres
+22.
+Le principe commun de toutes ces manifestations de l'immoralité, ne peut, comme on le prétend ordinairement, avoir sa source dans les penchants naturels qui naissent de la sensibilité. Car ils n'ont point de rapport direct avec le mal ; ils donnent même occasion à la vertu, en ce qu'ils témoignent de la force du sentiment moral. Aussi ne sommes-nous point responsables de leur existence, parce qu'étant naturels, nous n'en sommes pas les auteurs. Tout acte qui a son motif suffisant dans la sensibilité seule, n'est pas du domaine de la morale, qu'il soit conforme ou contraire à la raison. En conséquence, la sensibilité, quelque modifiée qu'elle puisse être par l'organisation, le tempérament, le climat, etc., contient trop peu, pour qu'on puisse y trouver le principe du mal moral dans l'homme.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I
+Table des matières Liste générale des titres
+23.
+Le principe de ce mal ne peut pas non plus résider dans la perversité d'une raison morale et législatrice. Car il est absolument impossible que cette raison parvienne à détruire en elle l'autorité de la loi morale, et qu'elle puisse nier les obligations qui en découlent. Se croire un être libre dans ses actions, et néanmoins se croire délié d'une loi si conforme à un être libre, serait admettre une cause qui agirait sans aucune loi, ce qui serait contradictoire. Il s'en suit qu'une raison qui délierait elle-même l'homme de la loi morale, une raison pervertie, corrompue, dégénérée, et enfin une volonté absolument mauvaise, contiennent trop au contraire pour constituer dans l'homme le principe du mal moral. En effet, dans cette hypothèse, l'opposition à la loi même, deviendrait un motif déterminant d'action, et l'homme serait un être diabolique.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+24.
+Le mal moral ne provient donc ni de la sensibilité ni de la raison. Mais il sort des rapports de la liberté et de la loi morale qui se reconnaît seulement a priori, et que l'on peut établir et développer a priori par le raisonnement suivant :
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I
+Table des matières Liste générale des titres
+25 et 26.
+En vertu de l'heureuse disposition que l'homme a pour le bien, la loi morale s'impose irrésistiblement à lui ; elle serait même un principe suffisant de sa volonté, il l'adopterait comme maxime suprême de sa conduite, et agirait en conséquence, si aucun autre motif ne luttait contre elle ; mais d'après la tendance naturelle, également innocente de la sensibilité, le plaisir et la peine sont aussi des motifs qui agissent inévitablement sur l'homme ; et il se livrerait au principe subjectif de l'amour de soi, il suivrait exclusivement les penchants naturels, s'ils n'étaient combattus par aucun autre motif. Si ces deux principes, essentiellement différents entre eux, subsistaient séparément, l'homme adopterait l'un ou l'autre comme motif unique d'action, et selon le choix qui aurait été fait par lui, il serait entièrement bon ou entièrement mauvais. Mais comme ces deux motifs s'unissent naturellement dans l'homme et qu'il les adopte tous les deux dans ses maximes, si le bien et le mal moral dépendaient seulement de la différence de ces motifs, l'homme serait en même temps bon et mauvais ; ce qui, à l'égard de la moralité et de l'immoralité, ne peut être admis sans contradiction.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+27.
+L'état moral de la volonté ne dépend donc pas de la différence des motifs que l'homme adopte pour règle de conduite ; mais il dépend de la subordination qu'il établit entre eux par l'effet de sa volonté ; car tous les deux ne peuvent subsister ensemble sur la même ligne, et l'un est la condition ou le moyen de l'autre.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+28.
+Si donc l'homme est mauvais ; c'est qu'il renverse dans ses maximes l'ordre moral des motifs ; c'est qu'il fait de l'amour de soi, et de tous les penchants qui en découlent, la condition de son obéissance à la loi morale, tandis qu'il devrait au contraire faire de la loi morale la condition suprême de la satisfaction de ses penchants ; tandis qu'il devrait l'adopter dans ses maximes comme seul motif de sa volonté.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+29.
+Cette subordination de la loi morale au principe de l'amour de soi, est donc le péché originel, dont toutes les mauvaises actions ne sont que des conséquences ; l'homme est radicalement mauvais lorsque, par l'acte de sa liberté, il a adopté, pour la maxime générale de conduite, le plaisir et la peine, comme la condition de l'accomplissement de la loi ; comme lorsqu'il fait de la raison un moyen pour satisfaire ses appétits.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I
+Table des matières Liste générale des titres
+30.
+Cette espèce de méchanceté n'est pas la méchanceté proprement dite, car elle ne prend pas le mal en tant que mal pour motif d'action, c'est plutôt de la perversité (verkehrtheit, perversitas), c'est-à-dire une disposition qui provient de la fragilité, de l'impureté du coeur humain, et qui se manifeste surtout dans la tendance par laquelle l'homme s'efforce d'accréditer en lui cette opinion : « Que la simple légalité est la moralité ; que l'immoralité est la simple illégalité ; que l'absence du vice est vertu ; que le vice lui-même n'est qu'un innocent égarement. » Cette mauvaise foi, par laquelle on cherche à se faire illusion à soi-même, s'étend au dehors et devient fausseté et tromperie à l'égard des autres, et si on ne l'appelle pas méchanceté, elle mérite au moins d'être appelée la négation de toute valeur morale (Nichts Würdigkeit).
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+31.
+L'existence du penchant qui entraîne la liberté à s'affranchir du motif moral, peut seulement être démontrée par le jugement impartial, que la conscience porte sur elle-même. Ce jugement est confirmé par une foule d'exemples frappants que l'observation des actions humaines met sous nos yeux.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+32.
+La conduite du sauvage, celle de l'homme civilisé nous fournissent également ces exemples. Nous citerons, dans l'état de nature, les scènes sanglantes des îles de Tofoa, de la nouvelle Zélande et des navigateurs des vastes déserts de l'Amérique Septentrionale ; et dans l'état de civilisation la longue et triste litanie des plaintes de l'humanité sur les perfidies secrètes de l'amitié intime, sur la haine pour les bienfaiteurs, sur la joie des maux d'autrui et sur la foule immense des vices diaboliques.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I
+Table des matières Liste générale des titres
+33.
+Une confirmation très frappante de l'existence de ce mal, se trouve dans les institutions religieuses et politiques, jugées comme elles doivent l'être, c'est-à-dire d'après les lois de la morale et d'après les principes du droit naturel. Des peuplades civilisées sont perpétuellement en état de guerre entre elles, et semblent avoir résolu de n'en sortir jamais. Leurs vrais principes d'action sont directement opposés aux maximes qu'ils mettent en avant ; et jusqu'à ce moment aucun philosophe n'a pu les mettre d'accord avec la morale ou seulement en proposer de meilleurs qui pussent aisément s'accorder avec la nature humaine, si bien que le Chiliasme philosophique qui espère un état de paix perpétuelle, fondé sur la réunion des peuples en une république du monde ; ainsi que le chiliasme théologique qui attend une perfection morale complète pour l'espèce humaine, sont également tournés en dérision comme des rêves et des chimères.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+34.
+L'origine du mal moral, qui a son fondement dans le mal radical, peut être considérée sous le rapport de la raison, ou sous le rapport du temps. Dans la première acception, on trouvera simplement l'existence de l'effet en puissance ; dans la seconde, l'effet est réalisé comme un évènement accompli dans le temps.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+35.
+Si l'origine du mal est considérée sous le rapport de la raison, ce mal, qui est réellement un fait de la liberté, est alors représenté par la raison seule, et ne peut être reconnu par l'esprit lié aux sens et au temps qui en sont la forme sous ce rapport même ; l'origine du mal moral ne peut être attribuée au temps qui n'est qu'un témoin des actes extérieurs de ce mal, ou qui n'a de valeur relative à l'origine de ce mal, que comme circonstance dans le monde sensible. La liberté étant cause absolue du mal moral, ses actes ne sauraient être déduits d'une cause différente d'elle-même, sans qu'elle devint purement relative.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+36.
+Le mal radical dans la nature humaine, puisqu'il est un fait de la liberté, n'a donc pas son origine dans le temps, et ne peut être déduit d'aucune cause innocente étrangère à la liberté : dès qu'on veut le rapporter à une autre cause, il est essentiellement incompréhensible.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+37.
+La manière dont l'écriture nous représente l'origine du mal, dans la première manifestation du mal par l'espèce humaine, s'accorde avec notre opinion ; car elle nous représente cette origine sous forme d'histoire, et dans une histoire le primitif qui ne peut être trouvé que dans la cause, semble exister dans une manifestation au sein du temps.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+38.
+D'après ce point de vue de l'écriture, le mal ne commence pas dans l'humanité ou dans son représentant, le premier homme, par un penchant primitif pour le mal imprimé à l'espèce, mais par une chute, c'est-à-dire, par une mauvaise manifestation de sa liberté ; cette manifestation étant la première, elle est le passage de l'état d'innocence à celui de péché.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I
+Table des matières Liste générale des titres
+39.
+Suivant le même point de vue de l'Écriture, la loi morale existait antérieurement sous la forme d'une défense, ainsi que cela devait avoir lieu pour l'homme, pour un être qui n'est pas pur et qui est tenté par ses penchants. Mais, au lieu de rendre cette loi comme un motif suffisant de toutes ses actions, l'homme se mit à la recherche d'autres motifs qui ne peuvent être bons que d'une manière conditionnelle, et il se fit pour maxime, de suivre la loi du devoir, non par devoir, mais aussi en vue d'autres considérations. Il commença par mettre en doute la sévérité de l'ordre qui exclut l'influence de tout autre motif ; puis, par de subtils raisonnements, il se persuada que l'obéissance à cet ordre peut être modifiée. Enfin, après que le penchant à la subtilité l'eût emporté sur le motif de la loi, dans la règle de sa conduite, le péché fût consommé.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+40.
+Et ainsi faisons-nous journellement ; nous avons donc tous péché en Adam, et nous péchons encore. Il faut seulement remarquer que cet acte mauvais de la liberté du premier homme ayant introduit dans le monde le penchant au mal, et le mal lui-même avec le premier usage de la liberté ; l'Écriture nous le représente comme quelque chose d'inné ; comme un penchant primitif de notre nature qui se manifeste dans le temps.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+41.
+L'impossibilité de donner au mal lui-même et à toutes ses déterminations particulières la raison pour origine, est exprimée dans l'Écriture. En effet, l'Écriture, dans son récit, présente le mal avant la chute de l'homme sous la forme d'un esprit déchu ; et l'homme succombe seulement au mal par la séduction. Il n'est donc pas représenté comme foncièrement corrompu, mais comme étant encore capable de se relever.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+42.
+L'on ne peut concevoir comment il est possible que l'homme qui nous est représenté jusqu'ici comme méchant par nature, puisse devenir bon ; car comment le mal peut-il produire le bien ? Mais comme il n'est pas plus aisé de comprendre d'où le mal moral a pu d'abord s'introduire en nous, dont la disposition primitive est une disposition au bien ; on ne peut contester la possibilité de remonter du mal au bien, d'autant moins que la loi morale nous ordonne absolument de travailler à nous rendre bons, et par là même nous oblige à en supposer la possibilité.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+43.
+Le retour vers le penchant primitif au bien dans toute sa force, ne peut être compris comme dérivant d'un mobile qui aurait été perdu, puis retrouvé. Nous n'avons jamais pu perdre ce mobile, et si cette perte eût été possible, jamais nous ne l'eussions recouvré. Il ne peut donc être question que du retour à la pureté de ce penchant qui se manifeste lorsque la loi morale n'est plus ou associée à des penchants sensuels, ou même subordonnée à ces penchants comme conditions ; lorsque, rétablie dans toute son indépendance, elle est un motif suffisant à lui-même, lorsqu'elle est acceptée comme telle dans la maxime générale.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I
+Table des matières Liste générale des titres
+44.
+Cette réhabilitation de l'homme méchant par nature, qui, dans sa maxime générale, avait accepté la loi en sous ordre, se présente à l'esprit comme un renversement dans sa façon de penser auparavant pervertie, comme une révolution dans ses sentiments ; comme un changement de caractère, une sorte de renaissance, et comme la création d'un nouvel homme. Cette révolution, dans sa manière de penser, convertit le principe supérieur des maximes qui rendaient l'homme méchant, en une détermination unique, invariable, elle contient l'origine d'une réforme graduelle, propre à combattre cet empirisme, qui est un obstacle toujours renaissant dans la route vers la sainteté : ainsi l'homme sera un nouvel homme par l'adoption du principe de la sainteté, ou de la maxime générale, source de toutes bonnes maximes ; mais pour devenir bon il doit y travailler sans cesse, il doit espérer qu'avec cette parfaite pureté de principe, qu'il prend comme règle suprême de sa volonté fortement inclinée au bien, il fera des progrès continuels du mal au mieux, bien que la route soit étroite et difficile.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+45.
+Devant celui qui sonde les coeurs, qui juge d'un coup-d'oeil la règle suprême des sentiments et les progrès successifs que l'on fait dans une vie vraiment sainte, ce changement du coeur suffit pour que l'homme soit bon et agréable à ses yeux. Mais au jugement des hommes qui ne peuvent apprécier la pureté et l'énergie des maximes, que par l'empire obtenu réellement sur les sens, il sera simplement considéré comme un effort soutenu tendant à l'amélioration, comme une réforme insensible et constante du penchant au mal.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I
+Table des matières Liste générale des titres
+46.
+Cette métamorphose des sentiments, et l'amélioration des moeurs qui en est la conséquence, ne peut, sans contradiction, être supposée un simple don de Dieu, mais seulement l'effet de notre liberté ; car si elle ne pouvait nous être attribuée, il est évident que nous ne serions ni bons ni mauvais moralement. Quand on voudrait à toute force qu'une intervention surnaturelle fût nécessaire à l'oeuvre du perfectionnement, elle ne pourrait consister que dans la diminution des obstacles, ou en un secours positif ; il faudrait encore que l'homme se fût rendu digne d'obtenir ces faveurs, et apte à les accepter, c'est-à-dire qu'il eût admis dans ses maximes une force réelle et croissante de bonne volonté, en vertu de laquelle seulement il serait possible de lui attribuer le bien moral, et de le reconnaître pour un homme de bien.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+47.
+La raison paresseuse prétextant une impuissance naturelle pour nous affranchir du devoir de travailler par nos propres forces à notre amélioration, évoque toute sorte d'idées religieuses impures. D'après ces idées, l'homme se flatte que Dieu, par un acte de sa toute puissance, pourrait le rendre heureux sans qu'il ait besoin, pour cela, de travailler à devenir meilleur ; ou bien il croit que Dieu pourrait immédiatement faire de lui un homme meilleur, et que toute sa tâche est de prier. Comme si, en présence d'un être qui voit tout, prier était autre chose que souhaiter ! Si le simple voeu suffisait, peut-on douter que tout homme ne fût bon !
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+I Table des matières Liste générale des titres
+48.
+Selon la vraie religion morale, et entre toutes celles qui sont connues, la chrétienne est la seule ; il est reçu, en principe, qu'il faut que l'homme fasse tous ses efforts pour devenir meilleur. Dans cette supposition seulement on peut espérer avec certitude que ce qui n'est pas en son pouvoir lui sera donné par une intervention suprême. Il ne s'agit donc point de savoir ce que Dieu fera ou ce qu'il a déjà fait pour notre salut : mais ce qui nous importe réellement, c'est de savoir ce que nous devons et pouvons faire pour nous rendre dignes de son assistance.
+
+II. Il y a dans l'homme un bon principe qui combat
+contre le mauvais pour dominer en lui
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+49.
+La méchanceté radicale, ou le mauvais principe, est opposé à la sainteté qui représente le bon principe, c'est-à-dire à la perfection morale de la nature humaine ; par le penchant au bien, cette perfection est possible pour tout homme ; elle est même, en vertu de la loi, une nécessité absolue.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+50.
+Ce bon principe est un idéal en ce qu'il ne représente pas l'humanité telle qu'elle est, mais telle qu'elle devrait être ; l'homme, en conséquence, au point de vue de cet idéal, est supposé adopter la loi dans sa maxime suprême, et la suivre, comme motif déterminant dans toutes ses résolutions.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+51.
+Cet idéal est le seul de son genre, en tant qu'il a pour la volonté une réalité objective, en tant qu'il est pratique, c'est-à-dire nécessairement imposé par la loi morale, qui prescrit à chaque homme de le réaliser en lui. Il peut, en effet, le réaliser (objectivement) par une tendance progressive à l'infini, et subjectivement par l'adoption de la loi morale dans sa plus haute et plus générale maxime, au moyen de laquelle il se pénètre du sentiment de cet idéal.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+52.
+Dans ses rapports avec la divinité, l'idéal pratique et nécessaire de la sainteté d'êtres raisonnables et finis, doit s'offrir à la pensée dans les définitions suivantes :
+1° À l'égard de son origine, cet idéal est comme existant en Dieu de toute éternité ; n'ayant pas été créé mais engendré, il émane du caractère essentiel de la divinité, que l'on ne peut concevoir, si ce n'est comme la moralité sans bornes. Il est le fils unique de Dieu.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+53.
+2° À l'égard du monde, cet idéal est comme le but de la création, comme la parole, le qu'il soit, parole qui a fait que toutes les autres choses sont, et sans laquelle rien de ce qui est fait n'existerait. C'est le reflet de la splendeur divine, c'est en lui que Dieu a aimé le monde.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+54
+3° À l'égard de la nature humaine ; c'est quelque chose qu'elle n'a pas fait mais qui a pris place en elle, sans que l'on puisse comprendre comment elle a pu être susceptible de le recevoir. Il est comme quelque chose qui du ciel est descendu sur la terre, et que l'humanité a reçu en elle ; la parole est devenue chair, elle a habité en nous, et comme à son origine, la sainteté est exclusivement le caractère de la divinité, la nécessité pratique de cette sainteté dans l'homme, s'offrira sous l'image de la divinité descendant jusqu'à l'homme dans l'état d'abaissement du fils de Dieu, s'unissant à lui, élevant l'homme à la divinité.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+55.
+Par cet idéal pratique de la sainteté, nous apprenons encore ce qu'il nous est seulement possible et ce qu'il nous est indispensable de savoir sur la divinité ; nous apprenons à connaître la volonté de Dieu, et, par son accomplissement, à l'aimer de la seule manière qui soit digne de lui ; c'est ainsi que par le fils on parvient au père. Personne n'a vu Dieu ; le fils unique, qui est dans le sein du père, nous l'a fait connaître.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+56.
+L'acceptation réelle du sentiment de cet idéal, est la condition unique à laquelle on peut plaire à Dieu, et le moyen certain de lui plaire. Il a donné à tous ceux qui l'ont accepté le pouvoir d'être enfants de Dieu.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II
+Table des matières Liste générale des titres
+57.
+Cet idéal, comme type de ce que nous devons imiter, autant qu'il est possible à un être dépendant de ses penchants et de ses besoins, nous ne pouvons nous le représenter, que sous l'idée d'un homme qui, sous le rapport physique, est semblable à tops les hommes autant que sous le rapport moral, il est semblable à la divinité. On doit donc se le représenter soumis à tous les penchants, à tous les besoins de la sensibilité, mais comme la force morale, dans ses manifestations empiriques, ne peut se montrer que par la lutte contre les obstacles, et manifester toute sa puissance que par le triomphe qu'elle obtient ; on devra aussi se figurer le divin modèle, comme éprouvé par les plus violents combats, par les séductions les plus attrayantes, et prenant sur lui toutes les souffrances jusqu'à la mort la plus ignominieuse, pour ennoblir l'homme, et même pour le bien de ses ennemis.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+58.
+La persuasion que cet idéal a une réalité objective, qu'il existe véritablement dans la nature humaine ; voilà en quoi consiste la croyance en un fils de Dieu qui s'est revêtu de la nature humaine.
+La persuasion qu'il est nécessaire que nous adoptions des sentiments conformes à cet idéal, est la seule foi au fils de Dieu, la seule par laquelle nous soyons justifiés et sauvés.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+59.
+Celui donc qui a cette foi pratique au fils de Dieu, celui qui a eu son âme un sentiment moral tel qu'il peut croire, et avoir la conscience fondée en lui, que dans de semblables tentations, de semblables souffrances, qui sont comme la pierre de touche de la foi en cet idéal, il s'attacherait invariablement au type de l'humanité, et suivrait fidèlement son exemple. Celui-là, seul, est en droit de ne pas se croire un objet indigne de la bienveillance divine.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+60.
+L'homme parfait serait entièrement juste et agréable à Dieu par la foi pratique en son fils ; mais comment cette foi pratique peut-elle nous justifier, nous qui sommes si imparfaits ? Cette justification en tant qu'elle est fondée sur une vie qui, conformément à cet idéal, serait exempte de faute, comment peut-elle être aussi notre justification ? Trois difficultés semblent s'opposer à ce qu'on puisse le comprendre.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+61
+La première difficulté à l'égard de la réalité de cette foi, qui justifie et sauve l'homme par l'observation constante de la loi morale, paraît consister en ceci. Il est dit dans la loi : Soyez saints dans votre conduite sur la terre, comme votre père céleste est saint. Or, nous autres hommes, nous ne faisons qu'avancer d'un bien imparfait à un bien moins imparfait, et il en est ainsi, lors même qu'ayant adopté la loi morale comme maxime suprême, nous sommes par elle, dans les sentiments de cet idéal pratique et nécessaire. Or, comment se pourrait-il qu'aux yeux du saint législateur, ces bons sentiments pussent compenser l'imperfection des actes ?
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II
+Table des matières Liste générale des titres
+62.
+Pour résoudre cette difficulté, il faut considérer que l'acte est toujours défectueux, et qu'il n'est apprécié par nous autres hommes, qui dans les idées du rapport des causes à l'effet, sommes inévitablement restreints aux conditions du temps, que comme un progrès perpétuel du défectueux au mieux, en sorte que le bien, dans sa manifestation, c'est-à-dire dans le fait, doit nous paraître comme une expression insuffisante de la loi sainte ; mais le scrutateur des coeurs, ne considère que l'intention, qui est la source des faits, qui ne tombe pas sous les sens ; il y voit le progrès soutenu d'un bien imparfait à un bien plus parfait, jusqu'à l'infini ; dans une intention pure et intellectuelle, Dieu saisit le fait et la conduite de la vie, comme un tout complet, il en juge en conséquence comme d'une chose parfaite.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+63.
+La foi pratique au fils de Dieu est donc le fondement de l'espérance que, malgré l'imperfection nécessaire de nos actes, nous serons jugés saints par celui qui est la sainteté même, en vertu de l'adoption de ce sentiment sacré qui est la source de nos progrès indéfinis vers le bien.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+64.
+La seconde difficulté à l'égard de la réalité de la foi qui justifie et sauve, se trouve dans la question suivante : Comment, l'homme peut-il s'assurer d'un sentiment constant et toujours progressif dans le bien ?
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+65.
+La seule conscience de la pureté du sentiment actuel, ne donne point encore l'intime persuasion de la persévérance dans le bien ; elle pourrait plutôt conduire à une dangereuse confiance en soi-même, s'il ne s'y joignait l'observation, que dès l'époque où les bons principes ont été adoptés, la conduite a été meilleure. Ce signe peut seul nous faire, avec raison, espérer que nous nous sommes améliorés réellement, et que si notre conduite garantit la sincérité de nos sentiments, la bonté divine nous donnera les moyens d'y persévérer.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II
+Table des matières Liste générale des titres
+66.
+La troisième et la plus grande difficulté de la justification de soi-même est celle-ci : Quelque degré de perfection et de persévérance qu'ait le nouveau sentiment dont on s'est pénétré, et la conduite qui en est la conséquence, l'homme a néanmoins commencé par le mal, et c'est là une dette qu'il est à jamais impossible d'acquitter. Il ne peut considérer les anciennes dettes comme soldées, parce qu'il n'en contracte pas de nouvelles après sa régénération. Encore moins peut-il, par la persévérance dans une bonne conduite, se procurer un excédent propre à l'acquitter, car en tout temps son indispensable devoir est de faire tout le bien dont il est capable. Enfin, aucune autre personne ne peut la payer pour lui, car elle n'est pas transmissible comme une dette d'argent, mais étant contractée par le péché, c'est de toutes les dettes la plus personnelle, elle retombe sur le coupable, et l'innocent ne peut le délivrer, fût-il assez généreux pour s'en charger.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II
+Table des matières Liste générale des titres
+67.
+Cette difficulté se résout de la manière suivante : Il faut que la justice suprême soit satisfaite, le mal doit être puni ; mais cette punition résulte nécessairement de la conversion du coupable, en tant qu'elle est l'abandon du mal, et l'adoption du bien, ou le dépouillement et la mort du vieil homme, pour revêtir le nouveau. Le passage du mal au bien est un sacrifice en soi, est comme la mort du vieil homme, le crucifiement de la chair, comme le commencement d'une longue série de maux, que l'homme régénéré s'impose pour l'amour du bien moral. Or, ces maux sont le châtiment d'un autre, c'est-à-dire du vieil homme qui, moralement, est distinct de l'homme nouveau. Et comme la sincérité de l'homme nouveau se prouve en ce qu'il accepte volontiers toutes les peines, tous les maux qui, pour le vieil homme, résultent de la bonne conduite dans laquelle il persévère ; l'homme a l'espérance fondée, que par l'adoption de ce sentiment de sainteté, la justice de Dieu sera satisfaite, à l'égard même des fautes dont il s'est rendu coupable avant cette adoption.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+68.
+D'après cette déduction de l'idée d'une justification de l'homme coupable, il est vrai, mais qui a passé à des sentiments agréables à Dieu, le sentiment contenu dans l'idéal de la perfection morale de l'homme (57), est donc la condition de notre sainteté, fait notre force dans le bien, et notre justification ; et son adoption fonde, commence et effectue le progrès indéfini d'une vie meilleure. C'est ainsi que par le fils de Dieu (52) nous sommes sanctifiés, pardonnes et justifiés ; par sa sainteté parfaite, il supplée à ce que nos actes auront en tout temps de défectueux (63), il nous accorde une assistance nécessaire (66) pour persévérer dans le bien ; il nous délivre de la dette du péché (67).
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+69.
+De cette déduction résulte encore l'idée de la rédemption, de la satisfaction substituée, qui comprendra, sous le rapport moral, l'idée de la délivrance nécessaire du châtiment qu'on a mérité ; et enfin l'idée de la rémission des péchés. Mais cette rémission est par là expliquée de la seule manière qui puisse se concilier avec la morale, savoir : comme une faveur que l'on peut seulement obtenir par un changement sincère du coeur, sans lequel toutes les expiations soit secrètes, soit solennelles, toutes les invocations et adorations, même celles qui s'adressent au représentant de la sainteté, sont impuissantes, soit pour en tenir lieu, soit pour en augmenter la valeur lorsque le changement est effectué.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+70.
+La conséquence de cette déduction est d'un côté la consolation, et de l'autre un jugement sévère de soi-même qui met en garde contre une sécurité fausse et assoupissante.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+71.
+L'Écriture Sainte expose, sous la forme d'une histoire, la lutte entre le bon et le mauvais principe. Elle représente deux principes qui sont dans l'homme aussi opposés que le ciel et l'enfer, comme des personnes existants en dehors de lui. Non seulement ils essaient l'un contre l'autre leurs forces respectives, mais ils tâchent de faire valoir le droit de leurs prétentions devant un juge suprême.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+72.
+D'après cette exposition historique, l'homme avait été originairement mis en possession de tous les biens de la terre ; néanmoins ils n'étaient à lui qu'à titre de vasselage (dominium utile), dont son créateur et maître était le suzerain (dominus directus). En même temps est mis en scène un être malfaisant, qui, après sa défection, ayant perdu toutes les possessions qu'il pouvait avoir eues dans le ciel, veut en conquérir d'autres sur la terre.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+73.
+Comme cet être méchant ne peut, en sa qualité d'esprit, jouir des objets terrestres et matériels, il tâche d'établir son empire sur les âmes et de rendre le père des hommes infidèle à son créateur, il s'efforce de le mettre sous sa propre dépendance ; c'est ainsi qu'il réussit à se rendre maître des biens de la terre, à s'ériger en prince de ce monde.
+Voilà donc en dépit du bon principe, l'empire du mal établi, et depuis Adam, tous les hommes s'y sont soumis eux-mêmes, par l'adoption du même sentiment, c'est-à-dire, de la perversité morale dans leur maxime suprême.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+74.
+Grâce à son droit légitime de domination sur les hommes, le bon principe se conserva chez les Hébreux sous la forme d'une théocratie dont les institutions reposaient en général sur la vénération publique attachée à son nom ; mais comme l'âme de ce peuple n'eut jamais d'autres mobiles que les biens du monde, et ne put se soumettre qu'à des lois réglementaires, ou qui, ayant rapport aux moeurs, étaient accompagnées de contrainte extérieure, et de cérémonies fatigantes ; ces lois ne pouvaient agir sur le sentiment moral qui n'y était pas même pris en considération ; on conçoit donc qu'elles ne durent pas porter un grand préjudice à l'empire des ténèbres.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+75.
+À une époque où ce peuple était mûr pour une révolution, il s'éleva au milieu de lui un homme, dont la sagesse semblait descendue des cieux, et qui, lui-même, quant à sa doctrine et à ses actions, s'annonçait comme un simple homme, mais pourtant comme un envoyé du ciel, encore en possession de la primitive innocence. Il n'était donc pas compris dans le traité fait avec le mauvais principe et auquel le genre humain a pris part par son représentant le premier homme. En conséquence il n'avait rien de commun avec le prince de ce monde, dont la domination se trouvait ainsi exposée à un péril certain.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II
+Table des matières Liste générale des titres
+76.
+Ce dernier lui propose donc de l'investir de son pouvoir sur tous ses royaumes, si, le reconnaissant comme son souverain, il consent à lui rendre hommage. Cette tentative ayant échoué, il ne priva pas seulement l'étranger des choses qui eussent pu rendre sa vie agréable ici-bas, il suscita encore contre lui toutes les persécutions par lesquelles des hommes cruels pouvaient rendre cette vie affreuse, et des souffrances que l'homme de bien est seul capable de sentir profondément. -- La pureté de ses intentions, quant à sa doctrine, fut calomniée, et la mort la plus infâme en fut la conséquence. Au milieu des violences exercées contre lui, sa persévérance, la franchise de ses leçons et de son exemple, ne fournissent pas le moindre prétexte d'accusation à tous ces misérables dont il voulait le bien.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II
+Table des matières Liste générale des titres
+77.
+Cette mort, le plus haut degré des souffrances de l'homme, était la représentation complète du bon principe, c'est-à-dire de l'humanité dans toute sa perfection morale, elle était comme un modèle offert à chacun, et qui pour ce temps, et pour tous les temps, peut et doit être de la plus grande influence sur l'âme humaine. Elle place sous nos yeux, dans un contraste frappant, la liberté des enfants du ciel, et l'esclavage d'un fils de la terre. « Il est venu chez lui, et les siens ne l'ont point reçu ; mais à tous ceux qui l'ont connu, il a donné le pouvoir d'être enfants de Dieu ; » c'est-à-dire qu'il a, par son exemple, ouvert la porte de la liberté à tous ceux qui comme lui consentent à mourir à tout ce qui les tient enchaînés à la terre au détriment de leur moralité. Il se choisit parmi eux un peuple pour en faire sa propriété, pour exercer sur lui son empire, un peuple qui sera puissant en bonnes oeuvres ; il abandonne ceux qui préfèrent l'esclavage moral.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+78.
+Quand on dépouille de son enveloppe mystique cette représentation animée, la seule qui, sans doute, fut populaire dans ces temps, il est aisé de voir que le sens intellectuel qu'elle renferme, a pour tout le monde et dans tous les temps, une valeur pratique et obligatoire, parce qu'il importe à chaque homme d'y reconnaître son devoir. Voici en quoi consiste ce sens caché.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II
+Table des matières Liste générale des titres
+79.
+L'homme porte en soi l'idéal de la perfection humaine ; son devoir est de le réaliser autant qu'il le peut, par la pureté morale de ses sentiments, aussi bien que par ses actions. La sensibilité n'y met point obstacle comme on l'en a si souvent accusée : car la tendance de l'homme au bonheur est légitime, mais elle doit être subordonnée aux principes de la moralité. Par une certaine perversité ou méchanceté, peu importe le nom, dont l'homme seul est coupable, il renverse l'ordre moral de la maxime suprême, il se soumet en esclave au mauvais principe et devient nécessairement un objet de déplaisir pour la divinité. Mais il ne peut absolument redevenir bon et agréable à Dieu, subjuguer en lui le mauvais principe, et trouver la guérison, qu'autant qu'il adopte en entier dans l'intimité de son sentiment, l'idée de la perfection morale, la foi pratique au Fils de Dieu.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+80.
+Par l'effet de cette foi sur l'âme, l'homme acquiert la conviction que les puissances tant redoutées du mal, ne peuvent rien contre elle ; les portes de l'enfer ne prévaudront point sur elle, pourvu que la bonne conduite soit pour lui le signe unique de la foi. Mais quiconque espère suppléer à cette confiance dans la foi pratique par des expiations qui ne supposent aucun changement dans le coeur, ou par de prétendues illuminations intérieures qui n'ont rien que de passif ; celui-là se conduit en superstitieux ou en fanatique, et restera toujours éloigné du bien qui se fonde sur l'activité propre de l'âme.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+81.
+Celui qui nie l'autorité suffisante des règles du devoir, telles que la raison les a primitivement gravées dans le coeur de l'homme, à moins qu'elle ne soit sanctionnée par des miracles, trahit une incrédulité morale très répréhensible. « Si vous ne voyez des signes et des miracles, vous ne croyez point. »
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+82.
+Mais lorsqu'une religion toute de culte et d'observances extérieures est arrivée à son terme, lorsqu'à sa place s'élève une autre religion fondée sur l'esprit des principes de la moralité, la pensée du vulgaire a besoin de se représenter cette religion nouvelle comme accompagnée et ornée de miracles dans sa partie historique. Car ces miracles annoncent la fin de la religion ancienne qui, elle-même, n'aurait jamais eu d'autorité sans les miracles. Il peut être utile aussi de présenter la nouvelle religion comme l'accomplissement actuel du modèle antique qui dans la vieille religion était le but final de la Providence, afin de gagner ses adhérents à la nouvelle révolution.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+83.
+Dans de telles circonstances, il ne peut être nullement utile de contester ce récit en cette interprétation, puisque la vraie religion subsiste, et peut se maintenir désormais elle-même par les principes de la raison. Peu importe donc que la personne du maître de la seule religion convenable à tous, soit un mystère ; que son apparition sur la terre, son enlèvement au ciel, sa vie active et ses souffrances, aient été autant de miracles ; il importe même peu que l'histoire qui doit accréditer le récit de ces miracles, soit aussi un miracle. Nous devons respecter l'enveloppe sous laquelle a été répandue une doctrine dont l'authenticité repose sur un document impérissable, parce qu'il est dans l'âme de chaque homme, et n'a besoin d'aucun miracle.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+II Table des matières Liste générale des titres
+84.
+Tenons-nous cependant en garde contre l'idée que savoir, croire, et confesser des miracles, fasse partie de la religion, et soit un moyen essentiel de nous rendre agréables à Dieu. On doit combattre une telle opinion de toutes ses forces, parce que sans elle chaque homme peut devenir meilleur, et que par elle nul ne le deviendra jamais.
+
+III. On ne peut vaincre complètement le mauvais principe, qu'en fondant un Royaume de dieu sur
+la terre
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+85.
+Quoique délivré de la domination du mauvais principe, l'homme moral bien intentionné n'en est pas moins exposé à ses attaques, et s'il veut conserver sa liberté, il faut qu'il soit toujours armé pour le combat. Comme c'est par sa faute qu'il est dans cette position dangereuse, son devoir est d'en sortie par tous les moyens qui sont en lui et d'y employer toutes ses forces.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+86.
+Quand l'homme examine les causes diverses qui l'ont jeté dans ce danger et qui l'y retiennent, il observe bientôt qu'elles ne proviennent pas seulement de l'imperfection de sa nature, considérée isolément, mais qu'elles sont plutôt l'oeuvre des hommes avec lesquels il a des rapports ou des liens. Les passions qui font de si grands ravages dans ses bonnes et primitives dispositions, ne trouvent que dans la société l'aliment qui leur est favorable.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+87.
+Si dans un tel état de choses on ne peut découvrir aucun moyen de faire servir la société elle-même, à vaincre le mauvais principe pour faire triompher le bon ; il est à craindre alors que malgré de grands efforts pour se soustraire à l'empire du mal, l'individu ne soit continuellement exposé aux dangers d'une rechute.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+88.
+D'après notre opinion, le seul moyen efficace nous semblerait consister dans la création d'une société permanente, dont le but exclusif serait de préserver l'homme du mal, et d'exciter le bien en lui, d'entretenir la moralité, de réunir des forces toujours croissantes par l'extension même de cette société, pour opposer au mal une puissante barrière.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+89.
+L'institution et l'extension d'une société qui subsisterait sous les seules lois de la vertu, pour en faciliter la pratique, et qui embrasserait le genre humain tout entier, est une tâche imposée à l'humanité en général, et un devoir pour chaque homme en particulier.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+90.
+Une association d'hommes sous les seules lois de la vertu, peut être appelée une société éthico-civile ; civile en tant qu'elle est sous la loi publique, éthique en tant qu'elle est distincte de la société purement civile, de l'état politique. Celle-ci étant généralement placée sous la loi de la contrainte, a pour but de restreindre la liberté individuelle à de telles conditions qu'elle puisse subsister avec la liberté de tous. La société éthique au contraire existant sous des lois qui ne s'appuient pas sur la contrainte, n'a d'autre but que de combattre le mal intérieur, de faire triompher le bien et le perfectionnement moral. La première repose entièrement sur l'ordre légal, l'autre sur la moralité.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+91.
+L'état de la société et celui de chacun de ses membres en dehors de cette association morale, est l'état éthique de nature, état d'hostilités perpétuelles et réciproques du mauvais principe contre le bon, état dont l'homme, il est vrai, est dans l'obligation de sortir pour devenir membre d'une société morale ; sans, toutefois, qu'il puisse y être forcé par contrainte.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+92.
+Dans la société politico-civile, le législateur est la multitude elle-même, réunie en un tout, dont la volonté générale établit la contrainte extérieure et légale. Mais, dans la société morale, le peuple ne peut être envisagé comme législateur, parce que dans une telle association, toutes les lois tendent à inspirer la moralité des actions qui, étant quelque chose d'intérieur, ne peut, par cela même, subsister sous les lois extérieures et humaines.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+93.
+Le peuple ne pouvant donc ici être législateur, il doit y avoir un autre législateur dont les lois ne puissent pas être supposées comme étant originairement le produit arbitraire de sa volonté suprême, car elles ne seraient pas alors des lois morales, et les devoirs qui s'y rattachent ne seraient pas de libres vertus ; mais des devoirs légaux, accompagnés de contrainte.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+94.
+Dans la société éthico-civile on ne peut concevoir de législateur suprême que celui auquel tous les devoirs, y compris les devoirs moraux, peuvent être rapportés comme des commandements dont il est l'auteur. Il doit donc être un scrutateur des coeurs pour pénétrer dans l'intimité des sentiments de chacun et pour rendre à chacun selon ses oeuvres. Or, comme telle est l'idée de Dieu en qualité de souverain moral du monde, on ne peut se représenter une société morale que, comme un peuple de Dieu, un peuple ardent aux bonnes oeuvres, et dont les efforts réunis tendraient à ce que le règne de Dieu arrive, à ce que sa volonté soit faite sur la terre.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+95.
+Une société éthique, soumise à la législation morale et divine, est une Église, une Église invisible, en tant qu'elle représente l'idéal de la société éthique, qui ne peut tomber sous l'expérience, mais qui sert de type à tout homme qui veut instituer un état moral. L'Église visible est une association réelle des hommes en harmonie avec cet idéal ; elle est la véritable Église, parce qu'elle représente dans la sphère de l'expérience l'image de celle qui est invisible.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III
+Table des matières Liste générale des titres
+96.
+Les caractères particuliers de la véritable Église visible, sont les signes (Critérium) de sa moralité, en tant qu'état moral. Voici quels sont ces caractères :
+1° L'universalité, qui comprend l'unité numérique ; car, bien que l'Église soit partagée par des opinions accidentelles et soit désunie, il n'en est pas moins vrai qu'à l'égard du but essentiel qu'elle se propose, elle est fondée sur des principes tels qu'ils doivent nécessairement la conduire à se réunir en une seule Église ;
+2° La sainteté, c'est-à-dire l'union, qui n'a que des motifs moraux ; 3° La liberté, soit dans les rapports de ses membres entre eux, soit dans les rapports extérieurs de l'Église et du pouvoir politique ; 4° La nécessité absolue de sa constitution intérieure, sous la réserve de changer au besoin les dispositions purement fortuites de son administration, sans perdre un instant de vue le but principal.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+97.
+Avec ces caractères la véritable Église visible sera préservée : 1° de toute division en sectes ; 2° de toutes les faiblesses impures de la superstition et de toutes les extravagances du fanatisme ; 3° de tout despotisme, aussi bien de celui que l'Église nourrit sous la mitre, que de celui dont, hors de son sein, les gouvernements sont les fauteurs ; 4° de toute loi humaine purement arbitraire, et par là même variable.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+98.
+Toute Église étant visible et publique a besoin, pour sa constitution extérieure, de faits historiques et de lois réglementaires. La persuasion, fondée sur ces faits, se nomme croyance de l'Église, pour la distinguer de la croyance religieuse qui est purement morale ; et comme cette dernière a sa source dans la raison pure, on peut aussi l'appeler croyance de la raison.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+99.
+Pour que la croyance de l'Église se maintienne, s'étende et se perpétue, il est nécessaire qu'il y ait un livre consacré par le respect public qui, en tant que dépositaire des doctrines morales et religieuses, est appelé SainteÉcriture.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III
+Table des matières Liste générale des titres
+100.
+Comme ce qu'il y a de théorique dans la croyance de l'Église ne peut nous intéresser moralement, s'il n'en ressort point d'ordre divin pour l'accomplissement de tous les devoirs de l'homme ; comme toute croyance historique isolée de ses rapports avec la foi morale est non seulement morte elle-même, mais est encore la lettre qui tue ; ce livre, en tant que SainteÉcriture ne peut avoir pour interprète suprême que la pure croyance religieuse. Aucun écrit ne saurait être attribué à l'inspiration divine, s'il n'est utile sous le rapport de la doctrine morale, de l'amendement et du perfectionnement. Le sentiment et la façon de penser qui constitue la pure croyance religieuse, c'est l'esprit de Dieu qui conduit en toute vérité, et l'on ne peut trouver la vie éternelle dans les Écritures, qu'autant qu'elles témoignent de cet esprit.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+101.
+Peut-être certains passages de l'Écriture ne pourront être ramenés aux principes de la morale, c'est-à-dire de la vraie religion, sans que cette interprétation ne paraisse forcée et même ne le soit souvent en effet ; néanmoins, dès qu'un passage est susceptible d'une telle interprétation, il faut la préférer à la lettre morte qui ne renferme absolument rien pour la moralité, ou qui est même en opposition avec ses principes.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+102.
+De telles interprétations ne méritent pas le reproche de mauvaise foi, à moins que l'on ne veuille prétendre qu'elles reproduisent d'une manière exacte le véritable sens des auteurs de ces Écritures. Ce sens est-il littéralement exact, ou ne l'est-il pas, ce n'est pas la question ; la question est seulement de savoir s'il n'est pas possible d'interpréter l'Écriture de cette manière.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+103.
+Mais il ne suffit pas de la loi morale pour interprète suprême de l'Écriture. La croyance de l'Église a encore besoin d'une autre interprétation, qui doit être subordonnée à l'interprétation morale. Elle lui est fournie par la critique sacrée qui, d'une part, accrédite l'autorité de l'Écriture par les preuves historiques tirées de son origine ; et, d'un autre côte, facilite aux membres de l'Église l'intelligence de l'Écriture par de savantes explications, puisées soit dans la langue originelle de ce livre, soit dans les moeurs, les opinions, les usages du temps auquel il a été écrit, ou bien et même aussi des époques auxquelles il a reçu des interprétations qui sont devenues des symboles de la croyance du peuple.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+104.
+Un troisième prétendant soutient encore avoir droit à l'interprétation de l'Écriture : il n'a besoin ni de raison ni de savoir, il ne lui faut qu'un sentiment intime pour reconnaître le vrai sens de l'Écriture et sa divine origine. Mais si on ne peut, par un sentiment quelconque, juger des lois et de leur moralité, on peut encore moins, par le sentiment, découvrir les signes certains d'une influence immédiate et divine, car plus d'une cause peut concourir à un effet semblable.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+105.
+On ne peut mettre en doute que celui qui s'attacha à la doctrine de l'Écriture et fait ce qu'elle prescrit, trouvera qu'elle vient de Dieu. L'homme qui la lit ou l'écoute, se sentant attiré aux bonnes actions et à une conduite loyale, demeurera convaincu de la divinité de sa doctrine. Mais cet attrait n'est que l'effet de la loi morale qui le remplit d'un profond respect, et qui doit par conséquent être considérée comme loi divine.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+106.
+L'Écriture est donc la seule règle extérieure de la croyance de l'Église, elle n'a d'autre interprète que la croyance de la raison pure et la critique sacrée. La croyance de la raison pure est l'interprète authentique, bon pour chacun, et seul infaillible ; la critique sacrée est l'interprète doctrinal par lequel la croyance de l'Église ne peut être maintenue que pour certains peuples et certaines époques.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+107.
+La croyance de l'Église, comme véhicule de la croyance religieuse, est indispensable à une Église, et par là même sacrée. Mais elle n'en est un véritable véhicule qu'autant qu'elle ne contient rien de contraire au principe fondamental de la morale religieuse, rien qui ne contribue à la faire accepter et la répandre. Mais aussi comme ses textes, la morale de l'Évangile, par exemple, renferment un principe qui tend à la rapprocher de plus en plus de la pure croyance religieuse ; il faut que, se considérant comme un simple moyen d'introduction, elle travaille elle-même à se rendre inutile et à remplacer, par les sentiments épurés de la morale religieuse, la croyance toujours plus ou moins servile et mercenaire d'une religion constituée.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+108.
+Le passage insensible de la croyance de l'Église, à la prépondérance absolue de la croyance religieuse, ou l'ennoblissement progressif de la première par celle-ci, est l'arrivée du règne de Dieu, que les docteurs sacrés ne troublent ni ne retardent, mais qu'ils accélèrent quand ils ne méconnaissent pas les principes de la pure croyance religieuse.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III
+Table des matières Liste générale des titres
+109.
+Bien que l'établissement réel du règne de Dieu sur la terre puisse être encore fort éloigné, l'on peut cependant dire avec raison que le règne de Dieu est venu pour nous, s'il se trouve seulement un lieu où il soit publiquement reconnu que le principe du passage insensible de la croyance de l'Église à la croyance religieuse a poussé quelques racines. Car, dans ce principe, en vertu duquel s'approche continuellement le règne de Dieu, se trouve contenue, comme dans un germe fécond qui se développe sans cesse, la semence de tout ce qui, un jour, doit éclairer et dominer le monde. Le vrai et le bien qu'il est dans la nature de chaque homme de connaître et d'embrasser de tout son coeur, ne se répandent-ils pas partout une fois qu'ils ont été publiquement manifestés.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+110.
+Quoiqu'inaperçu aux yeux des hommes, un travail continu du bon principe s'opère pour établir parmi le genre humain et sous les lois de la vertu, une puissance, un empire, qui remporte la victoire sur le mal, et par sa domination assure au monde une paix éternelle.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+111.
+Cette discussion philosophique touchant la nature et l'origine du règne de Dieu sur la terre, recevra un nouveau degré d'évidence et de sanction du tableau historique relatif à la fondation et à l'introduction insensible de la véritable Église.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+112.
+La véritable Église visible, date de l'époque où la croyance de l'Église commence à reconnaître publiquement qu'elle dépend de la croyance religieuse, et qu'il est nécessaire d'être en harmonie avec elle. C'est par cette raison qu'il ne peut y avoir d'histoire de la religion avant cette époque.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+113.
+On peut prévoir que cette histoire ne sera que le récit de la lutte perpétuelle entre la croyance fondée sur le culte divin et celle qui repose sur la morale. L'homme est toujours disposé à faire prévaloir la première, dont la foi historique est la base, tandis que l'autre n'a jamais cessé de prétendre à l'avantage d'être la seule croyance propre à améliorer les âmes, prétention qui se maintiendra et prévaudra.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+114.
+Cette histoire manquera d'unité si elle n'est restreinte à cette seule Église, dans laquelle la question, à l'égard de la différence et de l'accord entre la croyance religieuse et celle de l'Église, a été posée publiquement, et a pris un intérêt moral.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+115.
+Il est donc évident que cette histoire ne peut point commencer avec le judaïsme, bien qu'il eût précédé immédiatement la croyance de l'Église dont nous voulons considérer l'histoire, et qu'il ait été l'occasion physique de son établissement. La croyance des Juifs, dans sa constitution intérieure, n'a rien eu de commun avec l'Église, mais elle a été toute politique. Les observations suivantes en fournissent la preuve.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+116.
+Toutes les lois judaïques étaient coercitives et ne concernaient que les actes extérieurs. Et même les préceptes des dix commandements qui, avant d'avoir été proclamés d'une manière authentique, avaient déjà leur valeur morale pour la raison, ne s'appliquent dans ce code qu'aux observances extérieures ; mais l'intimité du sentiment n'y est point prise en considération.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+117.
+Quant aux conséquences de l'accomplissement ou de l'infraction de ces commandements, les récompenses et les châtiments sont, dans le judaïsme, limités à la vie présente, sans qu'aucune idée morale serve de base à leur répartition. Ils devaient même s'étendre à une postérité innocente, ce qui, en politique, peut être un moyen adroit d'obtenir l'obéissance, mais en morale, serait contraire à la justice.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+118.
+Une troisième observation porte sur la confession de foi du judaïsme dans laquelle manque non seulement la conviction de l'immortalité de l'âme, mais même celle du vrai Dieu ; car le point essentiel de la croyance en Dieu n'est pas l'unité de Dieu qui entre aussi dans la croyance de plusieurs peuples qui honoraient un Dieu suprême au-dessus des divinités subalternes. Il faut, avant tout, se représenter ce Dieu comme le grand dominateur moral du monde, dont la volonté ne peut être accomplie par des actes extérieurs et légaux, mais à laquelle on n'obéit que par l'intimité morale du sentiment.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+119.
+Enfin, le judaïsme est si loin d'avoir été une époque de l'état d'universalité de l'Église, ou d'avoir lui-même dans son temps constitué cette Église universelle, qu'il a au contraire exclu tout le genre humain de sa communauté, se considérant comme un peuple choisi par Jéhovah qui, ennemi de tous les peuples, les avait aussi tous pour ennemis.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+120.
+La base de l'état politique des Juifs fut la théocratie, ou plutôt l'aristocratie des prêtres ou chefs, qui se vantaient de recevoir des instructions immédiates de la divinité, et quoique le nom de Dieu ait été honoré chez eux, il n'en résulte pas que leur constitution ait été religieuse. Dieu n'est représenté dans leurs dogmes que comme un prince temporel qui n'a aucun égard aux consciences.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+121.
+Plus les dispositions primitives du christianisme sont opposées au caractère du judaïsme, plus il est évident qu'il occupe le rang de croyance universelle, sainte, libre et invariable. Donc l'histoire de la croyance de l'Église doit commencer avec le christianisme.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+122.
+En effet, le fondateur du christianisme a lui-même déclaré comme quelque chose de vain en soi, la croyance servile aux usages du culte, aux formules consacrées à certains jours. La foi qui se manifeste exclusivement par la moralité de la conduite, et sanctifie l'homme par l'intention, est, selon lui, la seule foi qui sauve. Il a confirmé cette doctrine par ses exemples pendant sa vie et à sa mort. Il est donc le premier qui ait ramené publiquement la croyance de l'Église à la croyance religieuse, qui ait fondé la véritable Église, la société morale, et le règne visible de Dieu sur la terre.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+123.
+Cette doctrine de l'Évangile, qui consiste dans la pure croyance religieuse n'a pas besoin, considérée en elle-même, de confirmation historique ; cependant s'il était besoin d'un véhicule à cette croyance, si même il en fallait un à la croyance historique relativement à l'origine et au rang peut-être surnaturel de son auteur, il est probable que la sanction donnée par les miracles serait nécessaire. C'est pourquoi, dans la sainte Écriture, la doctrine de l'Évangile est accompagnée de miracles et de mystères, dont la publication elle-même est encore un miracle, et exige une croyance historique qui ne peut être prouvée que par l'érudition qui doit en déterminer et en fixer le sens.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+124.
+Toute croyance qui, comme croyance historique, se fonde sur les livres, a besoin, pour garantie, d'un public savant au sein duquel elle puisse être contrôlée par les écrivains contemporains, non suspects d'être d'accord avec ses premiers Apôtres, et qui soient les anneaux d'une chaîne continuée jusqu'à nos jours sans jamais être interrompue.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+125.
+Or, chez le peuple romain qui régnait alors sur les Juifs, et se trouvait même répandu dans la Judée, il y avait sans doute un public savant par les soins duquel ont été transmis et nous sont parvenus une suite non interrompue d'écrits relatifs à l'histoire contemporaine, et quoique ce peuple fût peu soucieux de la croyance religieuse de ses sujets étrangers, il n'eut point été incrédule à l'égard de miracles qui se seraient publiquement opérés sous ses yeux, cependant ce peuple, quoique contemporain, ne fait pas mention des commencements de la croyance de l'Église chrétienne ni des circonstances qui l'ont accompagnée.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+126.
+À peu près une génération plus tard, ce peuple fit quelques recherches à l'égard de la nature de ce changement de croyance qui lui avait été inconnue jusqu'à ce moment ; mais il n'en fit aucune quant à l'histoire de son origine. Dès lors, et jusqu'au temps où le christianisme pénétra dans toutes les classes, son histoire est si obscure, que nous ignorons même l'effet que produisait la doctrine de son fondateur sur la moralité de ses coreligionnaires. Les premiers Chrétiens furent-ils des hommes moralement meilleurs, ou des hommes d'une trempe ordinaire ? On l'ignore ; mais, depuis cette dernière époque, son histoire n'est point propre du tout à lui servir de recommandation.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III
+Table des matières Liste générale des titres
+127.
+On aperçoit alors une exaltation mystique dans la vie des ermites et des moines, une glorification de la sainteté du célibat par laquelle un grand nombre d'hommes devint inutile au monde, de prétendus miracles qui, à la faveur d'une superstition aveugle, pesaient sur le peuple. La hiérarchie et l'orthodoxie à l'occasion de certains articles de foi divisaient le monde chrétien en partis acharnés. En Orient, l'État tout occupé des règlements du clergé, relatifs à la foi, et de querelles de moines, devient la proie des Barbares. En Occident, le prétendu vicaire de Dieu anéantit l'ordre civil et les sciences, châtie les rois comme on châtie les enfants, excite aux Croisades, à des hostilités réciproques, dispose les sujets à la révolte contrôleurs supérieurs, et fait naître des haines sanglantes pour des différences d'opinions, entre ceux qui professent également le christianisme, etc.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III
+Table des matières Liste générale des titres
+128.
+Quand on saisit d'un seul coup d'oeil cette horrible histoire du christianisme, l'exclamation : « Tantum religio potuit suadere malorum ! » pourrait être justifiée, si son institution première ne témoignait encore clairement que son vrai et unique but a été d'introduire la pure croyance religieuse, sur laquelle les opinions ne peuvent être partagées. Ces tiraillements qui ont déchiré l'espèce humaine, et qui la déchirent encore, proviennent de ce que, par un mauvais penchant de la nature humaine, ce qui, au commencement, devait servir de simple introduction à la croyance religieuse, c'est-à-dire, ce qui devait seulement servir à gagner à la foi nouvelle par ses propres préjugée un peuple accoutumé à un croyance fondée sur des faits historiques, est devenu dans la suite, le fondement de la religion universelle.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+129.
+Si l'on demande quelle est la meilleure époque de l'histoire de l'Église, telle qu'elle est connue jusqu'ici, on peut répondre, sans hésitation, que c'est l'époque actuelle, par la raison que le germe de la vraie croyance religieuse a été déposé dans la chrétienté par un petit nombre, il est vrai, mais ostensiblement, et qu'il n'a besoin que d'un développement libre et insensible pour qu'on puisse attendre l'arrivée de cette Église, qui doit, à jamais, réunir tous les hommes, qui est la représentation visible d'un règne invisible de Dieu sur la terre.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+130.
+1° La question à l'égard de la différence et de l'accord entre la croyance religieuse et celle de l'Église, n'a jamais été tranchée d'une manière aussi positive qu'elle l'est dans ce moment, où la raison, dans toutes les choses qui, de leur nature, doivent être morales et améliorer l'âme, s'efforce visiblement de se délivrer du fardeau d'une croyance constamment en butte à l'arbitraire de ses commentateurs.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III
+Table des matières Liste générale des titres
+131.
+2° Dans tous les pays de notre continent, les vrais adorateurs de la religion ont commencé à adopter plus ou moins publiquement le principe de la modération dans les jugements relatifs, soit à la défense de tout ce qui s'appelle révélation, soit à sa négation absolue. En conséquence de ce principe, on admet une façon de penser équitable, c'est-à-dire, on admet 1° qu'un écrit dont le contenu pratique est purement divin, pourrait aussi, dans sa partie historique, être envisagé comme une révélation surnaturelle, puisqu'enfin personne ne peut en contester la possibilité ; 2° que la réunion des hommes en une religion, ne peut s'opérer et être rendue stable, si elle ne se fonde sur un livre saint, et sur une croyance de l'Église. Il est par conséquent juste et raisonnable, puisque ce livre existe, qu'il serve de base aux instructions de l'Église, et qu'on n'en affaiblisse pas la valeur par des attaques inutiles ou malignes ; mais on ajoute (ce qui est juste aussi) qu'on ne contraigne personne à y croire comme à une chose nécessaire au salut.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+III Table des matières Liste générale des titres
+132.
+Enfin, par des résultats scientifiques, on est actuellement en état de répandre et de soutenir les maximes suivantes, qui font partie de la croyance religieuse, à savoir : « Que cette croyance ne s'accorde point avec un fondement historique et n'en a pas besoin ; que l'essence de l'orthodoxie consiste dans la persuasion, que les bonnes oeuvres ont une valeur absolue, mais que la foi n'en peut avoir indépendamment des oeuvres. »
+
+IV. L'Église étant l'image du règne de Dieu, il n'y a de
+véritable culte divin que le culte moral
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+133.
+On trouve le vrai culte dans une Église, lorsque ses règlements, ses principes et toutes ses observances ont pour but d'introduire la religion pure de la raison ; mais le culte est faux et mensonger, si l'attachement aux observances y est en lui-même considéré comme béatifiant, et si la maxime de tendre à la religion pure de la raison y était regardée comme damnable.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+134.
+La religion, considérée subjectivement, est la connaissance de tous nos devoirs comme lois divines. Cette religion, dans laquelle je dois savoir d'abord que le devoir existe, afin de la regarder comme une loi divine, s'appelle la religion naturelle. Celle, au contraire, qui exige que je sache premièrement qu'il y a une loi divine avant de reconnaître le devoir, est la religion révélée.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+135.
+Celui qui déclare que la religion naturelle est la seule qui soit moralement nécessaire, c'est-à-dire la seule qui soit un devoir, peut être appelé rationaliste. S'il niait la réalité de toute révélation surnaturelle, il serait ce que l'on appelle naturaliste. Si, tout en admettant cette révélation, il présume que la reconnaître et la tenir pour réelle n'est pas nécessaire à la religion, on peut l'appeler rationaliste pur. Enfin, est-il persuadé que la croyance à une révélation est indispensable à la religion publique, on doit l'appeler supernaturaliste pur.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+136.
+Le rationaliste doit, en vertu de cette dénomination, se renfermer dans les bornes des lumières humaines. En conséquence, il ne niera, comme le partisan du naturalisme, ni la possibilité d'une révélation en général, ni la nécessité de cette révélation, comme moyen choisi par la divinité pour introduire la vraie religion. La question de controverse entre le rationaliste pur et le supernaturaliste, en matières de foi, peut avoir seulement rapport aux points de doctrine que l'un ou l'autre admette comme nécessaires et suffisants, ou seulement comme accidentels à la seule et vraie religion.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+137.
+Quant à la disposition particulière qui rend une religion susceptible de se communiquer à l'extérieur, ou elle est naturelle, ce dont, une fois qu'elle existe, tout homme peut se convaincre par sa propre raison ; ou elle est savante, et alors l'érudition dont elle est accompagnée est le seul moyen pour en convaincre les autres. Il se peut donc, dans ce sens, qu'une religion naturelle soit en même temps révélée, quand elle est constituée de manière que par le seul usage de leur raison les hommes peuvent et doivent y arriver, bien qu'à la vérité sans une révélation introductive, elle n'eût été ni aussitôt ni aussi généralement répandue.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+138.
+Dans cette religion subjectivement révélée, la révélation n'est pas indispensable, une fois cette introduction opérée. Il se pourrait même que, dans la suite, le souvenir d'une révélation surnaturelle se perdit entièrement, sans que pour cela cette religion fût moins facilement comprise, moins authentique, ou exerçât moins d'empire sur les âmes.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+139.
+Mais il en est autrement à l'égard d'une religion qui, par sa constitution intime, doit nécessairement être considérée comme révélée, si elle n'était conservée dans une tradition certaine, ou dans des livres saints, elle disparaîtrait du monde ; il faudrait alors une révélation réitérée de temps en temps ou qui se continuât sans interruption dans l'intérieur de chaque homme ; sans cette condition, l'extension et la propagation d'une telle croyance serait impossible.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+140.
+Mais toute religion, fût-elle révélée, doit en quelqu'une de ses parties, renfermer certains principes de la religion naturelle. La révélation ne peut être conçue comme religion que par la raison seule ; parce que l'idée même de la religion, comme obligation exigée par la volonté du législateur moral, est une conception de la raison pure. Ainsi, nous considérerons même une religion révélée, d'un côté comme naturelle, de l'autre comme savante, et nous serons à même de distinguer ce qu'elle a reçu de l'une ou de l'autre de ces diverses sources.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+141.
+Comme religion naturelle, le christianisme doit contenir une croyance morale, facilement comprise de tous et indépendante de toute conviction historique. C'est bien dans ce sens que son fondateur l'a réellement exposée. Pour preuve, nous allons extraire quelques passages des Saintes Écritures.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+142.
+En premier lieu, il dit : « Que ce n'est pas l'observation de certains devoirs civils, ou des règlements particuliers de l'Église qui peuvent nous rendre agréables à Dieu, mais que, par la moralité seule des sentiments, les hommes parviennent à lui plaire. Qu'aux yeux de Dieu, le péché commis dans la pensée égale le fait même ; et que la sainteté est le but auquel l'homme doit tendre constamment ; -- que haïr dans son coeur n'est pas différent du meurtre même. -- Que le tort fait au prochain se compensa seulement par la réparation qu'on en fait, et nullement par les actes extérieurs du culte. »
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+143.
+À l'égard de la véracité, il dit : « Que le moyen coercitif civil, le serment, nuit à l'estime de la vérité ; que le penchant, naturellement mauvais du coeur de l'homme, doit être entièrement changé. Il veut que le doux sentiment de la vengeance se change en tolérance, et que la haine pour un ennemi se change en bienfaisance. » C'est ainsi, selon lui, que la loi judaïque reçoit son entier accomplissement ; ce qui montre jusqu'à l'évidence qu'elle ne peut être interprétée par l'enseignement doctrinal des Scribes, mais seulement par la religion pure de la raison ; car, prise à la lettre, elle permet précisément tout le contraire, etc.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+144.
+Enfin, il comprend tous les devoirs dans une règle à la fois générale et particulière. Générale : « Fais ton devoir sans autre motif que la considération immédiate du devoir même, c'est-à-dire aime Dieu, législateur de tous les devoirs, par-dessus toutes choses ! » Particulière, quand il dit : « Aime ton prochain comme toi-même, » c'est-à-dire coopère à son bonheur par une bienveillance dénuée de tout motif d'intérêt. Ces ordres ne sont pas seulement des lois de vertu, ce sont des préceptes de la sainteté à laquelle nous devons tâcher de parvenir ; l'effort que l'on fait pour y arriver s'appelle vertu.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+145.
+Ces dogmes expressifs et vivifiants de la croyance religieuse sont les seuls signes dont ait besoin et qu'admette le fondateur de la véritable Église, pour témoigner de sa dignité suprême, comme aussi de sa mission divine.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+146.
+L'appel à la loi mosaïque ne peut se concevoir comme le fondement ou la confirmation de cette inébranlable et sainte vérité qui porte en soi la lumière ; mais seulement comme un simple moyen d'introduction au milieu d'hommes qui tiennent en aveugles à l'ordre ancien et dont les esprits, obsédés par une croyance de convention, sont presqu'incapables de comprendre une religion qui s'adresse à la raison.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+147.
+C'est pourquoi personne ne doit être surpris, quand un récit qui se trouve accommodé aux préjugés de ce temps, est énigmatique dans notre siècle, et a besoin d'une interprétation laborieuse ; bien qu'à la vérité une doctrine religieuse y apparaisse de toute part, et que souvent même l'attention soit expressément dirigée sur ce point intelligible et propre à convaincre, sans qu'il soit besoin d'aucune érudition.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+148.
+Comme religion enseignée, le christianisme contient des faits et des lois réglementaires. Sous ce point de vue, il n'est pas la religion, mais la croyance de l'Église ; ces faits et ces lois ne peuvent même devenir des éléments de la vraie croyance de l'Église, c'est-à-dire de celle qui s'allie avec la religion, que dans le cas où non seulement ils ne contredisent pas la croyance religieuse, mais où ils renferment plutôt un principe qui tend à s'accorder avec elle et concourt à l'unité de la société morale, à laquelle la représentation visible du règne invisible de Dieu est indispensable.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+149.
+Toute croyance de l'Église contredit la croyance religieuse, quand la partie historique et réglementaire de l'une est prise pour le fondement de l'autre ; ou, en d'autres termes, quand la première est mise à la place de la seconde et se trouve ainsi considérée comme l'essence de la religion. Si le christianisme contenait en soi une croyance semblable, il serait pour les savants seuls l'objet d'une croyance non morale, mais purement historique. Les ignorants, au contraire, qui ne disposent pas des secours que présentent l'histoire, la langue, la critique, etc., n'auraient qu'une croyance qui, étant adoptée sur la simple autorité des savants, serait aveugle en soi et demeurerait telle à jamais.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+150.
+Dans le christianisme pur, la croyance de l'Église doit reconnaître la foi de la raison pure comme principe suprême et dominant. Quant à la doctrine de la révélation, qui est le fondement de l'Église extérieure et ne peut se passer de l'enseignement érudit comme interprète et conservateur, il faut l'aimer et la cultiver comme un moyen simple, mais infiniment précieux, pour donner à la croyance religieuse sa représentation extérieure, pour la mettre à la portée des simples, pour la rendre permanente et faciliter sa propagation.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+151.
+La façon de penser en vertu de laquelle on adopte ce qui est historique et réglementaire comme l'essence de la religion, s'appelle présomption religieuse ; et la prétendue adoration de Dieu n'est alors qu'un faux culte de la croyance de l'Église.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+152.
+Le principe subjectif de cette présomption religieuse et de ce faux culte, c'est l'anthropomorphisme, c'est-à-dire la forme humaine attribuée à Dieu, principe d'après lequel nous nous faisons un Dieu tel que nous croyons devoir le faire pour qu'il soit plus facilement gagné dans notre intérêt, pour nous délivrer aussi de la peine importune et toujours renaissante d'agir nous-mêmes sur notre sentiment moral intime.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+153.
+La maxime sur laquelle se fonde une telle manière de penser est celleci : « Qu'on peut servir Dieu par quelque chose d'indifférent en soi, sans moralité, qu'on entreprend dans le but de lui plaire. » De là les souffrances volontaires, les pénitences, les macérations, les pèlerinages, etc., actes que l'on considère comme d'autant plus agréables à Dieu, qu'ils ne sont commandés par aucun devoir et qu'étant en eux-mêmes tout-à-fait inutiles et accablants, ils marquent d'une manière plus expresse l'intention de servir Dieu.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+154.
+De là encore l'opinion, que la foi pure et simple en ce que Dieu veut et peut faire pour notre amélioration, ou même pour une sainteté et une béatitude qui en sont indépendantes, est louable en soi et agréable à Dieu. Cette opinion conduit à l'illusion et à l'hypocrisie en ce qu'on feint une persuasion qu'il est impossible d'adopter pour plaire à qui que soit ; -- de plus elle entretient la croyance servile et lâche, qu'en confessant et en adorant un intercesseur divin, on est dispensé d'employer ses propres forces pour parvenir à une bonne conduite.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+155.
+En général, à commencer par le sacrifice des lèvres, qui de tous est le moins dispendieux pour l'homme, jusqu'à celui des biens naturels dont il eût pu faire une application plus avantageuse à la société, et même jusqu'au sacrifice de sa propre personne qui, sous le froc, est perdue pour le monde, l'homme, livré à un culte faux, offre tout à Dieu, excepté son sentiment moral. S'il dit qu'il lui consacre aussi son coeur, il n'entend point par là changer le genre de vie qui lui est agréable, mais il exprime le voeu sincère que ces sacrifices, ces prières, ces mortifications, ces assiduités au temple, etc., soient acceptés comme un équivalent de ce qu'il se réserve.
+Natio gratis anhelans multa agendo nihil agens.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV
+Table des matières Liste générale des titres
+156.
+A-t-on pris pour principe un culte qui n'est pas purement moral, mais qui peut, au besoin, réconcilier avec le Dieu auquel il est agréable, à ce que l'on prétend, il n'y a pas de différences assez considérables dans la manière également mécanique de le servir, pour qu'il vaille la peine de préférer l'une à l'autre. Joutes ont le même prix, ou plutôt n'en ont aucun. C'est pure grimace, que de regarder comme supérieur celui qui s'écarte du principe intellectuel de la pure adoration de Dieu, plus subtilement que celui auquel on reproche de s'abaisser grossièrement jusqu'à flatter les sens. Il ne s'agit pas ici de la différence des formes extérieures ; mais tout consiste à adopter ou à rejeter le principe unique de plaire à Dieu, par la seule moralité des sentiments, manifestée dans les actes, ou au contraire par des jeux pieux et de l'inutilité la plus complète.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+157.
+La persuasion qu'on peut agir sur Dieu par d'autres moyens que par la moralité des actions et le déterminer à accorder une assistance surnaturelle, devrait être appelée magie, puisque le propre de la magie est de produire des effets surnaturels par des causes naturelles. Mais comme ce mot comprend aussi l'idée d'un pacte fait avec l'esprit malin, il est plus convenable de la regarder comme du fétichisme.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+158.
+La hiérarchie sacerdotale, gouvernement d'un culte faux rendu à Dieu, est la constitution d'une Église, dans laquelle ce fétichisme est exercé et reçu comme une religion ; ce qui arrive toujours lorsque les principes de moralité n'en sont pas le fondement et l'essentiel, lorsqu'elle repose sur les lois, les règles et les observances de l'Église.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV
+Table des matières Liste générale des titres
+159.
+Certaines formes de l'Église présentent, en effet, un fétichisme si varié et si mécanique, qu'il semble devoir écarter toute moralité, même toute religion, et se mettre à leur place et se rapprocher beaucoup du paganisme. Mais peu importe, le plus ou le moins, là où tout repose sur la nature du principe supérieur d'union. Quand celui-ci impose une obéissance soumise à des règlements comme un service obligatoire, et n'exige point l'hommage libre qui, tout premièrement, doit être rendu à la loi morale, quelque minimes que soient les observances prescrites, il suffit qu'elles soient admises comme absolument indispensables, pour qu'elles n'en soient pas moins une croyance fétichiste qui sert à gouverner la foule à laquelle on dérobe sa liberté morale, en exigeant l'obéissance à une Église.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+160.
+L'état de cette hiérarchie peut être monarchique, aristocratique ou démocratique, ce qui ne concerne que son organisation ; mais quant à sa constitution, elle est et reste toujours despotique sous toutes ces formes ; car, partout où les statuts de la foi sont regardés comme lois constitutionnelles, là règne un clergé qui croit pouvoir se passer de la raison, et même enfin de l'érudition doctrinale, parce qu'il est seul interprète et gardien autorisé de la volonté du législateur invisible, parce qu'en cette qualité il dispose exclusivement de la croyance écrite, et que, muni de ce pouvoir, il n'a que faire de convaincre, il n'a besoin que d'ordonner.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+161.
+Comme hors de ce clergé, tout le reste est laïque dans la société, sans en excepter le chef public, l'Église gouverne définitivement l'état, si non par la force, du moins par son influence sur les âmes, et par le leurre de l'utilité que l'état est supposé pouvoir retirer d'une obéissance absolue, à laquelle la discipline spirituelle accoutume le peuple jusque dans sa pensée. Mais l'habitude de l'hypocrisie mine insensiblement l'honnêteté et la fidélité des sujets, elle les rend rusés, au point de se contenter de paraître remplir leurs devoirs de citoyens. Comme toute fausse application de principes, elle produit justement le contraire de ce qu'on s'était proposé.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+162.
+Tout ceci est la conséquence inévitable d'un déplacement insignifiant au premier coup-d'oeil, des principes de la seule croyance religieuse béatifiante, à laquelle il importait d'établir lequel des deux principes devait avoir la première place comme remplissant la condition suprême de la béatification.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV Table des matières Liste générale des titres
+163.
+Distinguer la foi religieuse de la foi ecclésiastique ; reconnaître que la première est l'interprète suprême et le but unique de la seconde ; que tout ce qui est historique et réglementaire n'est qu'un moyen d'éveiller et de vivifier le sentiment moral, c'est en cela que consistent les vraies lumières en fait de religion.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+IV
+Table des matières Liste générale des titres
+164.
+Il est juste, il est raisonnable d'admettre que ce n'est pas seulement « un sage selon la chair, » un savant ou un esprit subtil qui peut être appelé à la lumière, du moins à l'égard de ce qu'elle a de sanctifiant. Cette croyance est accessible à tout le genre humain. Mais ce qui est insensé aux yeux du monde, c'est que même l'ignorant, celui dont les idées sont infiniment bornées, doit pouvoir prétendre à cette instruction et à une conviction intime. Tous ont en eux le germe de la religion morale ; il peut être développé dans tous par des soins vigilants et sages, et s'élever jusqu'à la conviction de son existence. Non seulement le principe de cette conviction n'est ni moins fixe ni moins invariable que l'essence de la raison même ; mais il est aussi intuitif, aussi clair que l'est dans l'homme la conscience de sa nature raisonnable.
+
+V. Sur les Mystères
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+165.
+Les recherches dont la nature intime de toute croyance religieuse est l'objet, aboutissent inévitablement à un mystère, c'est-à-dire à quelque chose de sacré, dont l'existence ne peut être reconnue et communiquée que par la raison morale, et qui, par la même, cesse d'être un mystère. Mais la première cause de l'existence de cet objet sacré, ou la manière dont cette existence est possible, voilà ce qui est impénétrable et profondément mystérieux dans tous ces objets sacrés.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+166.
+Comme le côté pratique de la religion ne peut consister que dans l'observation des préceptes de la loi morale, en tant qu'ils sont des commandements de Dieu, ce que l'homme a à faire, conformément à la pure croyance religieuse, n'est point un objet de foi, mais plutôt celui d'un savoir positif. Comme l'homme ne peut réaliser l'idée du bien suprême qui est inséparablement liée au sentiment purement moral, et qu'il reconnaît pourtant en lui comme un devoir d'y travailler, il se trouve alors porté à croire à la coopération d'un législateur moral du monde. Tout ce que ce maître moral peut faire pour notre sanctification et béatification, est un secret de la religion, un mystère.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+167.
+Conformément au besoin de la raison pratique, Dieu, en sa qualité de dominateur moral du monde, est, sous trois caractères essentiellement différents, un objet de foi : 1° comme auteur moral du monde moral et physique, « Créateur du ciel et de la terre, » comme législateur saint ; 2° comme conservateur moral du genre humain, comme souverain plein de bonté ; 3° comme administrateur des lois morales, comme juge intègre.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+168.
+Cette croyance à une triple représentation de Dieu, ne renferme réellement aucun mystère ; elle n'exprime point des individualités physiques et diverses dans la divinité, mais simplement ses rapports avec le genre humain ; il suffit de la raison pour la concevoir complètement, et elle se rencontre dans la religion de la plupart des peuples civilisés. Cette croyance ayant été introduite d'abord dans la doctrine chrétienne, et, par celle-ci, publiée pour la première fois dans le monde, sa manifestation peut bien être considérée comme une révélation de ce qui, par la seule faute des hommes, avait été, jusqu'à ce moment, un mystère pour eux.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+169.
+D'après cette croyance, il ne faut pas 1° se représenter le saint législateur comme favorable ou indulgent à l'égard des faiblesses des hommes, ni comme despotique dans l'exercice de ses droits illimités, mais plutôt comme proportionnant les lois qu'il impose à la sainteté possible de l'humanité ; 2° sa bonté ne consiste pas dans une bienveillance absolue, mais dans une bienveillance qui, bornée à la conduite morale, vient au secours de l'impuissance de l'homme ; 3° nous ne devons pas imaginer que sa justice soit ou débonnaire, en tant qu'elle se laisserait corrompre par des marques d'amour, ou rigoureuse en ce qu'elle ne verrait que la loi, sans avoir égard aux bornes de la nature humaine.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+170.
+Ainsi Dieu, dans une personne, trois fois diversement moral, représente comme symbole de foi, toute la religion morale, dans laquelle ces trois qualités, spécifiquement différentes, ne s'identifient et ne se confondent pas plus entre elles, qu'on ne peut les attribuer à trois êtres divers. Dieu, dis-je, est dans cette trinité sainte, l'objet de la pure croyance religieuse, qui, sans cette triple distinction et d'après le penchant de l'homme à se représenter la divinité comme un chef humain, courrait le risque de dégénérer en une servile croyance d'anthropomorphisme.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+171.
+À cette croyance, se trouvent inséparablement liés trois mystères que la loi morale rend tout à fait intelligibles : le mystère de la vocation, celui de la satisfaction et celui de l'élection.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+172.
+1° Mystère de la vocation qui nous appelle à être citoyens d'un état divin.
+Nous ne pouvons concevoir la soumission générale et absolue de l'homme à la législation divine, sans nous considérer en même temps comme sa créature. L'idée de création ne s'accorde avec celle de législation morale, qu'autant que nous ne pouvons attribuer à un être produit, aucun autre principe intérieur de ses actions que celui qui y aurait développé la cause créatrice ; mais chaque action de cet être étant ainsi déterminée, il ne serait plus libre.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+173.
+La divine et sainte législation ne pouvant concerner qu'un être libre, ne se conçoit qu'autant qu'on se représente cet être libre comme existant déjà, déterminé non par la dépendance naturelle en conséquence de sa création, mais par une simple nécessité morale, conformément aux lois de la liberté, ou par sa vocation à être citoyen d'un royaume divin. La vocation dans ce but est moralement très claire ; sa réalité nous est révélée par la loi morale, mais sa possibilité est un mystère inaccessible à la spéculation.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+174.
+Mystère de la satisfaction. L'idée de la sainteté ne s'allie point à celle de la bonté de Dieu, relativement au pardon des péchés dont tous les hommes ont besoin. Car, en détruisant en lui la mauvaise maxime générale, ou en revêtant de plus en plus le nouvel homme, le pécheur satisfait ses obligations pour le présent et pour l'avenir, mais il ne satisfait point au passé.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+175.
+C'est donc seulement par une satisfaction substituée que le pardon des péchés peut se concevoir ; le pêcheur ayant obtenu grâce, il lui sera, par bonté, tenu compte du mérite de ses sentiments actuels et futurs pour l'extinction de ses anciennes dettes ; et il sera ainsi accordé à l'homme nouveau déchargé du péché, d'avoir pour le vieil homme satisfait à la justice divine. Admettre la possibilité de cette satisfaction est nécessaire en pratique. Elle est, au reste, révélée par la loi morale, mais elle n'en demeure pas moins un mystère impénétrable pour la raison théorique.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+176.
+Mystère de l'élection. Alors même que l'on convient de la possibilité de cette satisfaction substituée, elle ne peut cependant être avantageuse à l'homme que dans le cas où, par le libre changement de son coeur, il s'est rendu susceptible du bienfait de cette substitution. Mais les lumières de la raison ne peuvent allier l'idée de ce changement avec celle du penchant au mal dans l'homme.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+177.
+Comme le libre changement du coeur est, en dépit du mal radical, ordonné par la loi morale, il doit conséquemment être possible ; il faut admettre en faveur de cette possibilité, que la liberté de ceux qui changent véritablement leur coeur, est soutenue par une sorte d'assistance divine, qui n'empiète ni sur la liberté de l'homme, ni sur la justice de Dieu, mais est pour vous absolument incompréhensible. C'est une prédestination dont tout homme peut espérer être l'objet, pourvu qu'il fasse sincèrement son devoir ; elle lui est révélée par la loi morale, bien qu'elle soit toujours pour sa raison théorique un mystère impénétrable.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+V Table des matières Liste générale des titres
+178.
+Quant à ces mystères, en tant qu'ils ont rapport à l'histoire de la vie morale de chaque homme, savoir : comment il est possible qu'un bien ou un mal moral soit dans le monde, comment du dernier peut sortir le premier pour être réintégré dans un homme ; ou pourquoi, si cela arrive pour quelques-uns, d'autres en sont-ils exceptés ? Quant à ces mystères, dis-je, Dieu ne nous a rien révélé, et ne peut aussi rien nous révéler, parce que nous ne le comprendrions pas. Mais, pour la règle objective de notre conduite, tout ce dont nous avons besoin nous a été suffisamment révélé, et cette révélation est intelligible pour chaque homme.
+
+VI. Sur les moyens de la grâce
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+179.
+Si l'on appelle nature dans l'homme ce qu'il doit et peut faire, conformément à la loi morale, on entendra par grâce ce qui n'est possible que par le secours de Dieu, et ce que l'homme a le droit d'attendre s'il fait son devoir.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+180.
+Dans ce sens, la grâce est un saint mystère qui ne nous est révélé, en général, que par la loi morale ; celle-ci nous dit : que Dieu fera pour notre amélioration, ce que nous savons et sentons en notre conscience être audessus de nos forces ; d'où il suit que ce que Dieu veut opérer en nous, doit demeurer éternellement caché.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+181.
+Nous devons donc rester à une distance respectueuse de ce mystère comme d'une chose sacrée, dans la crainte que nous n'en vinssions à nous imaginer de faire des miracles ou d'en apercevoir en nous ; ce qui nous rendrait incapables d'user de notre raison, ou même nous ferait tomber dans une paresse telle, que livrés à une oisiveté passive, nous attendrions d'en haut ce que nous devons chercher en nous-mêmes.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+182.
+Les moyens sont tous des causes intermédiaires en la puissance de l'homme pour l'aider à atteindre un certain but. À l'égard de la grâce divine, il n'existe absolument qu'un seul moyen de l'obtenir, c'est de s'en rendre digne, c'est de faire de sérieux efforts pour améliorer autant que possible son état moral. Mais, hors de nos actes moraux, toutes les dispositions en elles-mêmes très insignifiantes ayant pour but de déterminer Dieu à cette grâce, où les soi-disant moyens de grâce sont tout-à-fait opposés aussi bien à l'idée qu'au sentiment de la moralité.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+183.
+Le vrai culte moral est invisible comme le règne de Dieu ; c'est un culte du coeur qui ne peut consister que dans le sentiment de l'observation de tous les devoirs, en tant que commandements divins ; il ne consiste nullement en actes insignifiants dont Dieu est l'objet exclusif. Mais l'invisible a besoin pour l'homme d'une représentation analogue par quelque chose de visible qui, employé comme un moyen tendant immédiatement au culte intime de Dieu, peut être appelé culte extérieur.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI
+Table des matières Liste générale des titres
+184.
+Ces moyens matériels ou ces représentations extérieures du bien moral, qui de tout temps ont été regardées comme salutaires, sont au nombre de quatre. Le premier consiste à fonder en nous-mêmes, sur de solides bases, le culte de Dieu intérieur, et d'en éveiller souvent le sentiment dans notre âme, c'est la prière particulière. Le second consiste dans la manifestation extérieure de cette prière par des réunions publiques aux jours légalement consacrés. Réunion dont le but est de proclamer les principes et les voeux de la religion, en même temps que les sentiments qui lui sont conformes, et de les communiquer ainsi les uns aux autres ; c'est la fréquentation de l'église. Le troisième consiste à transmettre ces principes à la postérité, par l'adoption des membres qui font leur entrée dans la communauté des croyants, et par l'accomplissement du devoir de les instruire en leur qualité de chrétiens, c'est le baptême. Le quatrième, enfin, est la conservation de cette communauté par une cérémonie répétée publiquement, qui perpétue l'union de ses membres en un corps moral, fondé sur l'égalité de leurs droits entre eux, et qui les fasse participer à tous les fruits du lien moral : c'est la communion.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+185.
+1° Regarder la prière comme un culte intérieur formel, et comme un moyen de grâce, est une opinion superstitieuse, une idolâtrie. Elle n'est qu'une déclaration de voeux à l'égard d'un être qui n'a besoin d'aucune explication sur les sentiments intérieurs de celui qui les forme. C'est donc un acte vain et qui n'est point au nombre des devoirs imposés comme commandements de Dieu ; en conséquence, on ne sert point réellement Dieu de cette manière.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+186.
+L'esprit de prière qui peut et doit incessamment se trouver en nous, est le désir sincère d'être agréable à Dieu dans tout ce que nous faisons, c'est-àdire que tous les sentiments qui accompagnent nos actions doivent nous les faire considérer comme accomplies au service de Dieu. Ce désir, revêtu de mots et de forme, aura tout au plus la valeur d'un moyen propre à vivifier en nous ces sentiments, mais il n'a immédiatement aucune espèce de rapport avec l'approbation divine.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+187.
+Par la disposition de leur âme à l'égard de la religion, tout ce qui n'a rapport qu'à leur perfectionnement moral, les hommes le transforment en un service de courtisan, dans lequel l'humilité et la louange sont d'autant moins moralement senties qu'elles sont plus riches en paroles. Il est donc nécessaire d'inculquer de bonne heure aux enfants qu'on soumet à des exercices de prières, que le discours en lui-même n'a ici aucune valeur, qu'il a seulement pour but de vivifier le sentiment d'une conduite de vie agréable à Dieu ; que le discours n'est en conséquence qu'un moyen propre à agir sur l'imagination.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+188.
+On ne peut regarder non plus la fréquentation de l'église comme un moyen de grâce, on ne peut supposer que Dieu soit servi et honoré par cette fréquentation, ni qu'il ait attaché à cette pratique des grâces particulières, ce serait une illusion qui s'accorde très bien avec la façon de penser d'un bon citoyen dans l'ordre pratique, et qui de plus satisfait aux convenances extérieures ; mais elle n'ajoute rien à sa qualité de citoyen dans l'empire de Dieu, au contraire, elle le falsifie, elle ne sert qu'à couvrir d'un vernis trompeur aux yeux des autres et aux siens propres, le mauvais état moral de ses sentiments.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+189.
+Mais en tant que la fréquentation de l'église comme culte extérieur solennel, est une représentation sensible de la communauté des croyants, elle est un moyen estimable d'édification non seulement pour chaque individu, mais aussi pour tous les croyants à qui, en qualité de citoyens d'un état divin sur la terre, elle est imposée comme un devoir positif ; bien entendu que cette Église n'a pas de formalités qui puissent conduire à l'idolâtrie et par là même charger la conscience.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+190.
+Le baptême, la consécration solennelle à la communauté de l'Église, c'est-à-dire la première réception comme membre d'une Église, est une cérémonie très significative en soi, qui impose de grandes obligations à celui qui en est l'objet, quand il est en état, de reconnaître lui-même sa croyance, ou aux témoins qui s'engagent à soigner son éducation religieuse au sein de cette croyance. Elle a pour but quelque chose de sacré, savoir : l'éducation d'un homme pour en faire un citoyen d'un état divin.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+191.
+Le baptême n'est point en lui-même un acte sacré, qui disposerait celui qui le reçoit à la sainteté et aux dons de la grâce divine. Il n'est donc pas un moyen de grâce, bien que son importance ait été tellement exagérée dans la primitive église grecque qu'on lui attribuait la vertu de laver soudainement tous les péchés ; ce qui mettait au grand jour le rapprochement de cette opinion avec une superstition plus que païenne.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+192.
+La communion est la cérémonie répétée pour le renouvellement, la continuation et la propagation de cette communauté de l'Église selon les lois de l'égalité, cérémonie qui, d'après l'exemple qu'en a donné le fondateur, et en même temps pour en conserver la mémoire, peut être célébrée sous la forme d'un repas pris à la même table. Cette solennité a quelque chose de grand en soi, quelque chose qui élargit la façon de penser égoïste, exclusive et étroite des hommes, surtout en fait d'idées religieuses et les élève jusqu'à la conception d'une confraternité universelle et morale ; elle est un bon moyen de ranimer l'amour fraternel dans une conscience par les sentiments moraux qu'elle représente.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+193.
+Mais prétendre que Dieu ait attaché des grâces particulières à la célébration de cette solennité, qui n'est cependant qu'un acte émané de l'Église, et adopter de plus comme article de foi qu'elle est un moyen de grâce, est une illusion religieuse qui ne peut manquer de produire ce qu'il y a de plus contraire à l'esprit de cette religion.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+194.
+Toutes ces illusions artificielles qu'on se fait à soi-même en matières religieuses ont un principe commun. Entre les qualités divines et morales, la sainteté, la grâce et la justice, l'homme s'adresse ordinairement à la seconde, pour échapper à la condition décourageante de se conformer aux exigences de la sainteté.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+195.
+Il est pénible d'être un bon serviteur, car alors on n'entend plus parler que de devoirs. L'homme aimerait mieux être un favori pour lequel on aurait beaucoup d'indulgence, ou qui même, quand il violerait grossièrement la loi du devoir, réparerait ses torts par l'intervention de quelqu'un dont il serait éminemment favorisé, tandis qu'il continuerait à être ce qu'il a toujours été, un serviteur négligent. Il applique à la divinité l'idée qu'il a d'un homme puissant qui distribue des grâces ; il espère s'acquitter de tout envers elle par des actes de soumission et tout obtenir de sa divine faveur.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+196.
+À cette fin, il s'applique à toutes les formalités qui peuvent témoigner combien il vénère les commandements divins, se dispensant ainsi de les observer ; et pour que ses voeux inactifs servent aussi à compenser leur violation ; il crie : Seigneur ! Seigneur ! afin de n'être pas obligé de faire la volonté du père céleste. Il considère donc ces solennités, qui sont un simple moyen destiné à vivifier les vrais sentiments pratiques, comme étant en elles-mêmes un moyen de grâce, il va jusqu'à prétendre que cette croyance est une partie essentielle de la religion et il abandonne à la sollicitude divine, le soin de faire de lui un homme meilleur.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI Table des matières Liste générale des titres
+197.
+Lorsqu'enfin la présomption de ce prétendu favori du ciel, s'élève à ce degré de fanatisme, qu'il se figure sentir l'effet particulier de cette grâce, la vertu le dégoûte et devient pour lui un objet de mépris. Il n'est donc pas surprenant que l'on se plaigne sans cesse que la religion concourt si peu au perfectionnement de l'homme ; que la lumière intérieure de ses favoris ne brille point au dehors dans leurs bonnes oeuvres ; tandis qu'il est naturel d'exiger d'eux plus de vertus qu'on n'en attendrait d'un homme tout naturellement honnête, qui adopte la religion, non pour remplacer des sentiments de vertu, mais pour leur prêter un appui, et les manifester activement dans le cours d'une bonne vie.
+
+LA RELIGION DANS LES LIMITES DE LA RAISON
+VI
+Table des matières Liste générale des titres
+198.
+La doctrine de l'Évangile, qui recommande la preuve par la manifestation des actes, a mis dans la main de tous, la pierre de touche au moyen de laquelle chaque homme peut s'apprécier aussi bien que les autres, « Vous les reconnaîtrez à leurs fruits. » On n'a point encore vu que ceux qui dans leur opinion propre sont particulièrement favorisés, qui sont les élus, l'emportent en quoi que ce soit sur le simple honnête homme auquel on peut se fier dans les affaires, dans les besoins, dans le commerce de la vie, mais toutes choses bien examinées, les premiers, au contraire, soutiendraient difficilement la comparaison avec celui-ci, ce qui prouve que la bonne route n'est pas d'aller de la grâce à la vertu, mais plutôt de commencer par la vertu pour arriver à la grâce.
+
+FIN DE LA THÉORIE DE KANT SUR LA RELIGION
+DANS LES LIMITES DE LA RAISON
+---------------
+[1] Francisque-Cyrille Bouillier (1813-1899), Membre correspondant de l'Institut, professeur de
+philosophie à la Faculté des Lettres de Lyon. On retient de lui qu'il a été le premier a organisé, en 1861, le jury qui accorda le baccalauréat à une femme, Julie-Victoire Daubié. La préface de Francique Bouillier servait d'introduction à l'édition de 1842. [2]
+Cet édit fut aboli en 1798 par le successeur de Frédéric-Guillaume II. Dans l'ordonnance remarquable qui rapporte cet édit de religion, il est dit : que la raison et la philosophie doivent être les compagnes inséparables de la religion, et qu'il ne faut pas de loi de contrainte pour maintenir la vraie religion. [3]
+Voir l'article sur Kant de M. Stapfer, dans la Bibliographie universelle. [4]
+De la Religion dans les limites de la raison, trad. de M. Trullard, p. 210. [5]
+Platon, dialogue intitulé : Entyphron.
+
+
